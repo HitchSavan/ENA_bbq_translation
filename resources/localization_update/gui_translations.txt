@@ -1,0 +1,395 @@
+Humanboard
+A Human Board Member
+The ultimate Board Member. He is not a fan of stampedes. \n\nPlant his head and watch him grow from the bones of the Earth!
+ENA acquired Board Member <br> <style=whisper>Hold Q to select it for use.
+The ultimate Board Member.
+CAN YOU HEAR SOMETHING?\n<size=36>Adjust the slider until the volume is at a COMFORTABLE level…
+GET YOUR EYES WORKING.\n<size=36>Adjust the slider until the face on the left is visible...
+Chocolates
+These dogs are sometimes used as money. \nThe symbol in the middle depicts an Hourglass Dog, highly valuable entities.
+ENA acquired\n{0}
+Highly valuable!
+Jump
+Jumps ENA up across objects or onto platforms.
+Interact
+Interacts with the character or object in front of ENA.
+Crouch
+Crouches ENA down to navigate tight spaces.
+Sprint
+I want ENA to run.
+Use Tool (1)
+Uses the primary function of the equipped tool.
+Use Tool (2)
+Uses the secondary function of the equipped tool.
+Move Vertical
+Moves ENA forward or backward.
+Moves ENA forward.
+Moves ENA backward.
+Move Horizontal
+Moves ENA left or right.
+Moves ENA to the right.
+Moves ENA to the left.
+Look Vertical
+Moves camera up or down.
+Moves camera up.
+Moves camera down.
+Look Vertical
+Moves camera up or down.
+Moves camera up.
+Moves camera down.
+Look Horizontal
+Moves camera left or right.
+Moves camera right.
+Moves camera left.
+Look Horizontal
+Moves camera left or right.
+Moves camera right.
+Moves camera left.
+Open Console
+Pause
+Previous Console Entry
+Next Console Entry
+Focus
+Hold to focus your eyes onto a distant object
+View Job Listings
+Shows job listings, acquired tools, and dialogue history.
+Tool Menu
+Shows a menu to select a tool.
+Equip: Next Tool
+Selects the following tool.
+Equip: Previous Tool
+Selects the previous tool.
+Equip: Hands
+Unequip any tool currently in hand
+Equip: Set 1
+Switch between \"Set 1\" tools
+Equip: Set 2
+Switch between \"Set 2\" tools
+Equip: Set 3
+Switch between \"Set 3\" tools
+Equip: Set 4
+Switch between \"Set 4\" tools
+Equip: Set 5
+Switch between \"Set 5\" tools
+Equip: Set 6
+Switch between \"Set 6\" tools
+Equip: Set 7
+Switch between \"Set 7\" tools
+Equip: Set 8
+Switch between \"Set 8\" tools
+Equip: Set 9
+Switch between \"Set 9\" tools
+UI Horizontal
+UI Vertical
+UI Submit
+UI Cancel
+UI Next Tab
+UI Prev Tab
+UI Special 1
+UI Special 2
+Free Look
+Moves camera freely.
+Skip Cutscene
+Skips a paused cutscene sequence.
+Template for a dual stick game pad with up to 6 action buttons, 2 shoulder buttons, 2 triggers, and 3 center buttons.
+Mayonnaise
+Egg Cream or Eye Cream?
+A special cream best used as a sleep mask. \n\nRelax and cover your eyeballs in absolute ovum.
+Mayonnaise
+Ovum for the eyes.
+Motherboard
+A sphere that gives life to that which can also bring about death. \n\nA shaman could give it a better use.
+ENA acquired\n{0}
+A shaman could give it a better use.
+Gamepad Symbols
+Changes displayed symbol set for controller inputs.
+Control Display
+Settings which affect the way control guides are previewed.
+Quality
+Settings which affect the quality of appearance
+Vibration Strength
+Controls the intensity of controller vibrations.
+Screen Shake Strength
+Controls the strength of most screen shake effects.
+Movement
+Settings which impact player movement
+Master Volume
+Adjusts the volume level of <b>all</b> audio.
+Save Duration Type
+Adjusts the type of save duration displayed in save select screen.
+Horizontal Sensitivity
+Adjusts camera's horizontal look strength (left, right). Larger values move the camera a greater distance faster.
+Gamepad Vibration
+Changes when vibration occurs on supported controller devices.
+Disable Tool Sway
+Removes certain motions on tools caused by player movement.
+Skip Speed
+Adjusts how quickly dialogue and cutscene interactions can be advanced.
+Sprint Field of View Modifier
+Adjusts the field of view displayed when sprinting. A value of zero causes no camera changes.
+Pause on Disconnect
+Automatically pauses the game when a controller is disconnected.
+Window Mode
+Toggles between displaying the game in fullscreen (borderless) or as a window.
+Invert Horizontal
+Inverts horizontal look input.
+Volume Levels
+Settings which affect the volume levels of game audio.
+Font Override
+Replaces pixelated font with a more legible font.\n\n<color=red>Beware</color>: Some text is not adjusted and those that are may be presented incorrectly.
+Character Volume
+Adjusts the volume level of character dialogue.
+Toggle Crouch
+Activates crouch by tapping the input instead of holding it.
+Text Size
+Adjusts the size of some on screen text elements.
+Vertical Sync
+Uses vertical sync to match display refresh rate. May cause input latency.
+Dialogue
+Settings which impact dialogue and cutscene systems
+Other
+Other input related settings
+Reverse Log Direction
+Reverses the order of dialogue history.
+Toggle Sprint
+Activates sprint by tapping the input instead of holding it.
+Untitled Setting
+No information provided
+Resolution
+Settings which affect the way the game is displayed.
+Invert Vertical
+Inverts vertical look input.
+Vertical Sensitivity
+Adjusts camera’s vertical look strength (up, down). Larger values move the camera a greater distance faster.
+Music Volume
+Adjusts the volume level of music.
+Field of View
+Adjusts the base field of view in degrees. Larger values display a greater camera area.
+Show Crosshair
+Displays a small dot at the center of the screen to assist with aiming.
+Focus Audio on Dialogue
+Reduces the volume of music and sound effects during dialogue.
+Focus Mode Strength
+Adjusts how far the camera zooms in when focusing.
+Other
+Other video settings that don't fit into other categories
+Video Clip Quality
+Affects the fidelity of most on screen video clips. Select \"Low\" if your game delays while playing \"Standard\" quality.\n\n<color=red>Beware</color>: Low quality videos have noticable defects.
+Allow Hold in QTE
+Holding the input in rapid press prompts will repeat the input automatically.
+Show Input Guides
+Changes how often all input tutorials are shown on the screen.
+Disable Sprint On Stop
+Automatically cancels sprint when not moving.
+Use Quick UI Animations
+Increases the speed of some menu animations.
+Screen Vignette
+Darkens the edges of the game's screen.
+Other
+Other settings which alter game behavior
+Mute in Background
+Mutes audio when the game is not in focus.
+Show FPS Counter
+Shows real-time frame rate (FPS) during gameplay.
+Gamma (Brightness)
+Adjusts in-game brightness.\n\n<color=red>Beware</color>: Setting this value too high or low may wash out the appearance.
+Other
+Other audio related settings.
+Preferred Input Device
+Changes the input symbols to match the preferred input device.
+Resolution
+Changes game's output resolution.
+Show Tutorial Inputs
+Shows input guides for fundamental game actions such as: moving, looking, and viewing job listings.
+Accessibility Settings
+Settings which alter gameplay experience to accomodate impairments or disabilities.\n\nSome options may compromise intended experience, use these at your own discretion.
+Maximum Frame Rate
+Sets a maximum frame rate for the game. Lower frame rates improve device battery life but significantly impact game animation quality.
+Effects Volume
+Adjusts the volume level of sound effects, interface elements, and ambience.
+Pause on Overlay Open
+Automatically pauses the game when opening a system overlay.
+Frame Rate
+Settings which affect the way frames are presented.
+Remap Setting
+No information provided
+Camera
+Settings which impact player camera and perspective
+Pet
+Lost Pet
+Babies? Pets? Tonight's dinner? No one knows for certain!
+ENA acquired\n{0}
+Babies? Pets? Tonight's dinner?<br>No one knows for certain.
+Talk to the Receptionist!
+Talk to the Receptionist
+HELP NEEDED
+Talk to the Receptionist!
+Downstairs, you'll find the Receptionist. \nUse those interrogative sales tactics of yours and get more info on what's going on here. We need to get rid of this nasty smoke, ENA!
+Find the sources of the smoke!
+Find the Sources of Smoke and Disable them.
+Return to Froggy in the Hub
+Return to Froggy and find the Boss.
+GET RID OF THIS SMOKE!!!
+All of this cigarette smoke is triggering my allergies! Oh, and it's also in the way of reaching the Boss.\r\nSeems the only entities with the power to get rid of it are those famous Genies. \nENA, let's find each of the Doors’ Genies and convince them to turn off the smoke.\r\n
+Find the Missing Witch
+The others say she was last seen at the Seal House. Seems important.
+Shaman's Lead
+One of our sisters is missing, we can't leave without that old hag! Could you please find her? \n\nNOTE: The Shaman directs those seeking the Bathroom to go across the bridge. Is the witch lost somewhere on the other side?
+Get her back to her sisters!
+One of our sisters is missing, we can't leave without that old hag! Could you please find her? \n\nNOTE: the missing witch was found on top of a building past the bridge. Find a way to get her back to her relatives!
+Have You Seen This Witch?
+One of our sisters is missing, we can't leave without that old hag! Could you please find her? \n\nNOTE: the sisters say the missing witch was last seen at Seal House.
+Find 4 Pets!
+Find Shoryo's 4 missing pets... or babies for money.
+Return to Shoryo
+Make your way back to the pets' father... or owner.
+Pets Come Home...
+I want my baby back, baby back, baby back, baby back. So mad and hungry at the same time!  \n\nFind my 4 blood-staining pets. Return them to me = many remuneration.
+Block out those eyes!
+Find a way to cover those horrid eyes.
+Return to the bridge.
+Tell Alex what you've done.
+Kill That Man's Stare
+That man is eyeing my properties from that broken building and without any authorization! \n\nHey, you! Find a way to block out those creepy eyes!
+Find the missing ingredient!
+Find a source of life!
+Return to the Shaman
+Bring the motherboard to the shaman.
+Looking for a LIFE?!<br>I KNOW the recipe!
+LIFE is the secret Tool needed to reach the giant orb in the sky—our most glorious Bathroom!\n\nSomeone out there has to have the missing ingredient. Believe me, ENA, when I say that WITCHES carry enough supplies to create MILLIONS of lives.
+Find the Taxi Driver’s heads!
+There is a machine of business here but it has been defiled by the authorities!
+Check underground!
+Mysterious enforcers have dragged off the heads of the only taxi driver this town’s got. The damage to the economy must be reversed! \nThey’re probably buried somewhere “deep down”.
+Investigate the \"gutz tunnels\"!
+Mysterious enforcers have dragged off the heads of the only taxi driver this town’s got. The damage to the economy must be reversed! Maybe check the “gutsy-looking tunnels”.
+Free the head!
+The brave self-employed contractor is imprisoned; free him!
+Taxi Drivers Head
+A strange set of heads.
+A strange trio of heads. \n\nThey babble about the recent ups and downs of Taxi fares.
+Taxi Driver's head
+A talented chauffeur.
+Tools
+Vertical Sensitivity
+Resolution
+NOT FOR ENA.
+Reset Audio
+Option A
+Lorem Ipsum
+Dialogue
+Reset Input
+Other
+Untitled Setting
+Reset
+Volume Levels
+Window Mode
+Input to change control for:
+Master Volume
+Pause on Overlay Open
+Settings which alter gameplay experience to accomodate impairments or disabilities.\n\nSome options may compromise intended experience, use these at your own discretion.
+Show Tutorial Inputs
+Character Volume
+Text Size
+Item Name
+Sprint Field of View Modifier
+Options
+Volume
+GET YOUR EYES WORKING.\n<size=36>Adjust the slider until the face on the left is visible...
+Font Override
+Show FPS Counter
+Skip Speed
+Please Confirm This Action?
+Mute in Background
+Reset Resolution
+Description of the object being inspected. This could be either a Quest or an Item that the player has selected. Fortunately there should be ample space on this preview panel for all the information we want to write about these subjects. At this point I would like to add that this text right here is placeholder and if you saw this then something has gone terribly wrong.
+Space
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam accumsan ante scelerisque lacinia vehicula. Cras lobortis, elit id finibus ornare, ex dui consectetur neque, a maximus elit magna vitae lectus. \n\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam at leo iaculis lacus porttitor lacinia. Proin condimentum sem sed arcu ullamcorper, at venenatis erat aliquet.
+Screen Vignette
+Confirm
+Gamepad Vibration
+ <style=Quest>ENA: Dream BBQ Chapter 1 'Lonely Door.'</style>
+Save Duration Type
+Disable Sprint On Stop
+Button
+Exit Game
+Use Quick UI Animations
+Action Name
+Reset Gameplay
+Master Volume
+Gamma (Brightness)
+Allow Hold in QTE
+Horizontal Sensitivity
+Accessibility
+<style=\"H1\">THE ENA TEAM</style>\n\n\nNAME HERE - ROLE TITLE\nNAME HERE - ROLE TITLE\nNAME HERE - ROLE TITLE\nNAME HERE - ROLE TITLE\nNAME HERE - ROLE TITLE\nNAME HERE - ROLE TITLE\n\n\n<style=\"H1\">CAST</style>\nNAME HERE - as CHARACTER NAME\nNAME HERE - as CHARACTER NAME\nNAME HERE - as CHARACTER NAME\nNAME HERE - as CHARACTER NAME\nNAME HERE - as CHARACTER NAME\nNAME HERE - as CHARACTER NAME\n\n\n<style=\"H1\">MUSIC BY</style>\nNAME HERE\nNAME HERE\nNAME HERE\nNAME HERE\n\n\n<style=\"H2\">SPECIFIC ROLE</style>\nNAME HERE\n\n\n<style=\"H2\">SPECIFIC ROLE</style>\nNAME HERE\n\n\n<style=\"H2\">SPECIFIC ROLE</style>\nNAME HERE\n\n\n<style=\"H2\">PLAYTESTERS</style>\nNAME HERE\nNAME HERE\nNAME HERE\nNAME HERE\nNAME HERE\nNAME HERE\nNAME HERE\nNAME HERE\n\n\n<style=\"H2\">SPECIAL THANKS</style>\nNAME HERE\nNAME HERE\nNAME HERE\nNAME HERE\nNAME HERE\nNAME HERE\nNAME HERE\nNAME HERE\nNAME HERE\nNAME HERE\nNAME HERE\nNAME HERE\n\n\n<style=\"H2\">PATRONS</style>\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE\nNAME HERE   NAME HERE
+<size=80%><color=#F30><u>*Many scenes are WIP and will have missing or incomplete SFX, animations and transitions in this build.</u></size></color>\n
+Gamepad Symbols
+Reset All Settings to Default
+<size=75%>v0.9.0 alpha</size>
+Are you sure you would like to do that?
+Reset Accessibility
+Screen Shake Strength
+Movement
+Last Saved: {0}
+Resume
+Vibration Strength
+[NULL]
+Control Display
+Show Crosshair
+Focus Audio on Dialogue
+Quality
+Example Text
+Description
+Camera
+help
+Invert Vertical
+Select Equipment
+Press <size=135%><glyph \"Interact\"></size> to Revive!
+Controls
+Master Volume
+autofill_preview
+Cancel\n
+Frame Rate
+Reset <b>all</b> settings to their default values as though you had never modified anything.
+Toggle Sprint
+Remap Setting
+Reverse Log Direction
+Vertical Sync
+Accessibility Settings
+Maximum Frame Rate
+Preferred Input Device
+Effects Volume
+Input
+Toggle Crouch
+Invert Horizontal
+Walk Away
+JOB STARTED
+Audio
+Gameplay
+Video
+Resolution
+Resume
+Jobs
+Video Clip Quality
+<size=80%><color=#777>If a live-playthrough is not possible with a developer present, please record your gameplay and provide a link to a compressed video file in the google form. </size></color>\n\n<size=70%><color=#555>(this isn't required but helps us a substantial amount!)</size></color>
+<size=120%><b>Setting Name</b></size>\nDetails about the settings hovered or selected will be located here to explain what the setting will change for the application. Keep descriptions as practical as possible.
+Show Input Guides
+Completely reset <b><u>EVERYTHING</u></b> including: all save files, game settings, collectables, and other persistent data.\n<color=red>Application will close upon reset</color>
+Disable Tool Sway
+Saving...
+A Google form will be provided for playtesting feedback, please complete it after playing to help us improve the game!
+> User Experience<size=75%>\t(UI, game mechanics, interactions and secrets)</size>\n> Narrative <size=75%>\t\t\t(story beats, characters, dialogue comprehension, story length)</size>\n> Bugs <size=75%>\t\t\t\t(soft-locking, crashes, anything that may seem 'broken' rather than unfinished)</size>
+Skip
+<align=\"center\"><style=\"PHeader\">Header With A Long Item Name</style></align>
+Mayonnaise
+Button Name Goes Here
+Main Menu
+<color=#F00><u>Please do not stream, distribute or share photos or videos of this software. </color></u> \n\nThis build is to playtest the player experience of the narrative, mechanics and UI. Specific things we're looking for feedback on:
+Focus Mode Strength
+I haven't heard any information about the supposed '<style=Hint>Genie</style>' of this Door.\n
+Reset Video
+<u>UNRELEASED - Playtest Build Info:</u>\nThis chapter contains multiple paths to reach the ending. Playtime per-path is roughly 1 hour each with some shared environments.\n\n<u>Saving using console commands [ f10 ]:</u>\n'cheats enable' - enables cheats\n`save_write` - writes save\n`save_reset` - resets save, scene needs reloading\n'reload' - reloads scene; x2 for resetting music\n\n- Saving otherwise occurs in-game through autosaves at specific events.\n\n<size=80%><color=#F00><u>*Many scenes are WIP and will have missing or incomplete SFX, animations and transitions in this build.</u></color></size>\n
+Confirm
+Music Volume
+<b><color=red>Reset Everything</b>
+Field of View
