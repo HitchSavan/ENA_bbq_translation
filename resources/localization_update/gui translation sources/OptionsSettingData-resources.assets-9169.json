@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2534
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2083
+  },
+  "m_Name": "",
+  "optionsMenu": {
+    "m_FileID": 0,
+    "m_PathID": 7464
+  },
+  "labelTextMesh": {
+    "m_FileID": 0,
+    "m_PathID": 9579
+  },
+  "settingName": "Video Clip Quality",
+  "settingDescription": "Affects the fidelity of most on screen video clips. Select \"Low\" if your game delays while playing \"Standard\" quality.\n\n<color=red>Beware</color>: Low quality videos have noticable defects."
+}

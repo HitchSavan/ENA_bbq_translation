@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 616
+  },
+  "m_Name": "Board Member",
+  "key": "equip_board",
+  "carryLimit": 1,
+  "itemCategory": 2,
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": 1164
+  },
+  "selectedIconVariant": {
+    "m_FileID": 0,
+    "m_PathID": 1114
+  },
+  "title": "Humanboard",
+  "shortDescription": "A Human Board Member",
+  "description": "The ultimate Board Member. He is not a fan of stampedes. \n\nPlant his head and watch him grow from the bones of the Earth!",
+  "previewCinematic": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "previewModel": {
+    "gameObject": {
+      "m_FileID": 0,
+      "m_PathID": 2038
+    },
+    "position": {
+      "x": 0.0,
+      "y": -0.5,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 90.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 35.0,
+      "y": 35.0,
+      "z": 35.0
+    },
+    "initialRotation": {
+      "x": 30.0,
+      "y": 45.0
+    }
+  },
+  "iconValueTarget": 1,
+  "iconReferenceMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 40
+  },
+  "overrideAcquireText": 0,
+  "overridenAcquireText": "ENA acquired Board Member <br> <style=whisper>Hold Q to select it for use.",
+  "acquireSubtitle": "The ultimate Board Member.",
+  "popupItemAnimation": {
+    "endBehavior": 1,
+    "nextState": "",
+    "nextStateCondition": "",
+    "frameInterval": 0.1,
+    "sprites": {
+      "Array": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 1151
+        }
+      ]
+    }
+  },
+  "largePopupContext": 1
+}

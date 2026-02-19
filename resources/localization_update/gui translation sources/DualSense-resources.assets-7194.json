@@ -1,0 +1,496 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 980
+  },
+  "m_Name": "DualSense",
+  "controllerDataFiles": {
+    "m_FileID": 0,
+    "m_PathID": 6955
+  },
+  "controllerGuid": "5286706d-19b4-4a45-b635-207ce78d8394",
+  "glyphs": {
+    "Array": [
+      {
+        "inputID": 0,
+        "description": "Left Stick X",
+        "positiveDescription": "Left Stick Right",
+        "negativeDescription": "Left Stick Left",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1629
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 1254
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 1055
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 1,
+        "description": "Left Stick Y",
+        "positiveDescription": "Left Stick Up",
+        "negativeDescription": "Left Stick Down",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1370
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 920
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 1508
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 2,
+        "description": "Right Stick X",
+        "positiveDescription": "Right Stick Right",
+        "negativeDescription": "Right Stick Left",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1057
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 1537
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 1183
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 3,
+        "description": "Right Stick Y",
+        "positiveDescription": "Right Stick Up",
+        "negativeDescription": "Right Stick Down",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 851
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 1631
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 1043
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 6,
+        "description": "Cross",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1581
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 7,
+        "description": "Circle",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1442
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 8,
+        "description": "Square",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 840
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 9,
+        "description": "Triangle",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1410
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 10,
+        "description": "L1",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 888
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 4,
+        "description": "L2",
+        "positiveDescription": "L2",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1449
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 11,
+        "description": "R1",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 801
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 5,
+        "description": "R2",
+        "positiveDescription": "R2",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 677
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 12,
+        "description": "Create",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1038
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 13,
+        "description": "Options",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1386
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 14,
+        "description": "PS Button",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": ""
+      },
+      {
+        "inputID": 15,
+        "description": "Touchpad Button",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": ""
+      },
+      {
+        "inputID": 24,
+        "description": "Mute",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": ""
+      },
+      {
+        "inputID": 16,
+        "description": "Left Stick Button",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 623
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 17,
+        "description": "Right Stick Button",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 882
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 18,
+        "description": "D-Pad Up",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 803
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 19,
+        "description": "D-Pad Right",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1665
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 20,
+        "description": "D-Pad Down",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 786
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 21,
+        "description": "D-Pad Left",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 629
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 22,
+        "description": "Left Stick",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 646
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      },
+      {
+        "inputID": 23,
+        "description": "Right Stick",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1429
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Playstation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2575
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2083
+  },
+  "m_Name": "",
+  "optionsMenu": {
+    "m_FileID": 0,
+    "m_PathID": 7464
+  },
+  "labelTextMesh": {
+    "m_FileID": 0,
+    "m_PathID": 9162
+  },
+  "settingName": "Accessibility Settings",
+  "settingDescription": "Settings which alter gameplay experience to accomodate impairments or disabilities.\n\nSome options may compromise intended experience, use these at your own discretion."
+}

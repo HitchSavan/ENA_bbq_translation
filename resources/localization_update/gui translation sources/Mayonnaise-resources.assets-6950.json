@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 616
+  },
+  "m_Name": "Mayonnaise",
+  "key": "item_mayo",
+  "carryLimit": 1,
+  "itemCategory": 2,
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": 1156
+  },
+  "selectedIconVariant": {
+    "m_FileID": 0,
+    "m_PathID": 1160
+  },
+  "title": "Mayonnaise",
+  "shortDescription": "Egg Cream or Eye Cream?",
+  "description": "A special cream best used as a sleep mask. \n\nRelax and cover your eyeballs in absolute ovum.",
+  "previewCinematic": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "previewModel": {
+    "gameObject": {
+      "m_FileID": 0,
+      "m_PathID": 3476
+    },
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 2.0,
+      "y": 2.0,
+      "z": 2.0
+    },
+    "initialRotation": {
+      "x": 20.0,
+      "y": 30.0
+    }
+  },
+  "iconValueTarget": 1,
+  "iconReferenceMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 42
+  },
+  "overrideAcquireText": 0,
+  "overridenAcquireText": "Mayonnaise",
+  "acquireSubtitle": "Ovum for the eyes.",
+  "popupItemAnimation": {
+    "endBehavior": 1,
+    "nextState": "",
+    "nextStateCondition": "",
+    "frameInterval": 0.1,
+    "sprites": {
+      "Array": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 1160
+        }
+      ]
+    }
+  },
+  "largePopupContext": 1
+}

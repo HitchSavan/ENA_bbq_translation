@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2815
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2083
+  },
+  "m_Name": "",
+  "optionsMenu": {
+    "m_FileID": 0,
+    "m_PathID": 7464
+  },
+  "labelTextMesh": {
+    "m_FileID": 0,
+    "m_PathID": 7702
+  },
+  "settingName": "Window Mode",
+  "settingDescription": "Toggles between displaying the game in fullscreen (borderless) or as a window."
+}

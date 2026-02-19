@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2334
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2083
+  },
+  "m_Name": "",
+  "optionsMenu": {
+    "m_FileID": 0,
+    "m_PathID": 7464
+  },
+  "labelTextMesh": {
+    "m_FileID": 0,
+    "m_PathID": 8167
+  },
+  "settingName": "Screen Vignette",
+  "settingDescription": "Darkens the edges of the game's screen."
+}

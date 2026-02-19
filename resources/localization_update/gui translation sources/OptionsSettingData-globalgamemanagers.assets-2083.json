@@ -1,0 +1,25 @@
+{
+  "m_Name": "OptionsSettingData",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 205,
+    "bytes[1]": 129,
+    "bytes[2]": 193,
+    "bytes[3]": 3,
+    "bytes[4]": 150,
+    "bytes[5]": 17,
+    "bytes[6]": 145,
+    "bytes[7]": 165,
+    "bytes[8]": 63,
+    "bytes[9]": 104,
+    "bytes[10]": 51,
+    "bytes[11]": 221,
+    "bytes[12]": 55,
+    "bytes[13]": 179,
+    "bytes[14]": 135,
+    "bytes[15]": 126
+  },
+  "m_ClassName": "OptionsSettingData",
+  "m_Namespace": "JoelG.ENA4.UI",
+  "m_AssemblyName": "JoelG.ENA4.dll"
+}

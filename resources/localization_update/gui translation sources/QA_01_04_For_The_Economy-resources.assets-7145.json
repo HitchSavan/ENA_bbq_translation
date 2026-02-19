@@ -1,0 +1,178 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 359
+  },
+  "m_Name": "QA_01_04_For_The_Economy",
+  "quest": {
+    "key": "economyDrive",
+    "objectives": {
+      "Array": [
+        {
+          "key": "findDriverHead",
+          "title": "Find the Taxi Driver’s heads!",
+          "overrideDescription": 0,
+          "description": "There is a machine of business here but it has been defiled by the authorities!",
+          "useSpecialGoal": 0,
+          "progressGoal": 1.0
+        },
+        {
+          "key": "findHeadBelow",
+          "title": "Check underground!",
+          "overrideDescription": 1,
+          "description": "Mysterious enforcers have dragged off the heads of the only taxi driver this town’s got. The damage to the economy must be reversed! \nThey’re probably buried somewhere “deep down”.",
+          "useSpecialGoal": 0,
+          "progressGoal": 1.0
+        },
+        {
+          "key": "findHeadInMaze",
+          "title": "Investigate the \"gutz tunnels\"!",
+          "overrideDescription": 1,
+          "description": "Mysterious enforcers have dragged off the heads of the only taxi driver this town’s got. The damage to the economy must be reversed! Maybe check the “gutsy-looking tunnels”.",
+          "useSpecialGoal": 0,
+          "progressGoal": 1.0
+        },
+        {
+          "key": "freeHead",
+          "title": "Free the head!",
+          "overrideDescription": 1,
+          "description": "The brave self-employed contractor is imprisoned; free him!",
+          "useSpecialGoal": 0,
+          "progressGoal": 1.0
+        }
+      ]
+    },
+    "icon": {
+      "m_FileID": 0,
+      "m_PathID": 794
+    },
+    "useIconAnimation": 1,
+    "iconAnimation": {
+      "endBehavior": 1,
+      "nextState": "",
+      "nextStateCondition": "",
+      "frameInterval": 0.042,
+      "sprites": {
+        "Array": [
+          {
+            "m_FileID": 0,
+            "m_PathID": 794
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 794
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 794
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 794
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1179
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1179
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1179
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1179
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1599
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1599
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1599
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1599
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 794
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 794
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 794
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 794
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1179
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1179
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1179
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1179
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1599
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1599
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1599
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1599
+          }
+        ]
+      }
+    },
+    "automaticIconHeight": 1,
+    "iconHeight": 277.0,
+    "iconValueTarget": 0,
+    "iconReferenceMaterial": {
+      "m_FileID": 0,
+      "m_PathID": 36
+    },
+    "titleColor": {
+      "r": 0.5754717,
+      "g": 0.5754717,
+      "b": 0.41531682,
+      "a": 1.0
+    },
+    "title": "For the Economy!",
+    "subtitle": "",
+    "description": "Mysterious enforcers have dragged off the heads of the only taxi driver this town’s got. The damage to the economy must be reversed!"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3281
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2083
+  },
+  "m_Name": "",
+  "optionsMenu": {
+    "m_FileID": 0,
+    "m_PathID": 7464
+  },
+  "labelTextMesh": {
+    "m_FileID": 0,
+    "m_PathID": 10163
+  },
+  "settingName": "Field of View",
+  "settingDescription": "Adjusts the base field of view in degrees. Larger values display a greater camera area."
+}

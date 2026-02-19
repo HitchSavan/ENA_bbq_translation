@@ -1,0 +1,266 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 359
+  },
+  "m_Name": "QA_01_00_The_Missing_Witch",
+  "quest": {
+    "key": "missingWitch",
+    "objectives": {
+      "Array": [
+        {
+          "key": "witchFind",
+          "title": "Find the Missing Witch",
+          "overrideDescription": 0,
+          "description": "The others say she was last seen at the Seal House. Seems important.",
+          "useSpecialGoal": 0,
+          "progressGoal": 0.0
+        },
+        {
+          "key": "witchInfo",
+          "title": "Shaman's Lead",
+          "overrideDescription": 1,
+          "description": "One of our sisters is missing, we can't leave without that old hag! Could you please find her? \n\nNOTE: The Shaman directs those seeking the Bathroom to go across the bridge. Is the witch lost somewhere on the other side?",
+          "useSpecialGoal": 0,
+          "progressGoal": 0.0
+        },
+        {
+          "key": "witchReturn",
+          "title": "Get her back to her sisters!",
+          "overrideDescription": 1,
+          "description": "One of our sisters is missing, we can't leave without that old hag! Could you please find her? \n\nNOTE: the missing witch was found on top of a building past the bridge. Find a way to get her back to her relatives!",
+          "useSpecialGoal": 0,
+          "progressGoal": 0.0
+        }
+      ]
+    },
+    "icon": {
+      "m_FileID": 0,
+      "m_PathID": 1444
+    },
+    "useIconAnimation": 1,
+    "iconAnimation": {
+      "endBehavior": 1,
+      "nextState": "",
+      "nextStateCondition": "",
+      "frameInterval": 0.042,
+      "sprites": {
+        "Array": [
+          {
+            "m_FileID": 0,
+            "m_PathID": 1444
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1444
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1444
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1469
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1587
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1587
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 655
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 655
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 792
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 954
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 954
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 954
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1292
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1292
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1292
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 941
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1578
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1578
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 634
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 634
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1596
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1643
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1643
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1643
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 993
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 993
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 993
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1067
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 610
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 610
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1366
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1366
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1342
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1201
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1201
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1201
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1296
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1296
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1296
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 770
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 716
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 716
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1260
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1260
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1520
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 899
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 899
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 899
+          }
+        ]
+      }
+    },
+    "automaticIconHeight": 1,
+    "iconHeight": 277.0,
+    "iconValueTarget": 0,
+    "iconReferenceMaterial": {
+      "m_FileID": 0,
+      "m_PathID": 32
+    },
+    "titleColor": {
+      "r": 0.41509432,
+      "g": 0.2212531,
+      "b": 0.34403896,
+      "a": 1.0
+    },
+    "title": "Have You Seen This Witch?",
+    "subtitle": "",
+    "description": "One of our sisters is missing, we can't leave without that old hag! Could you please find her? \n\nNOTE: the sisters say the missing witch was last seen at Seal House. "
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2199
+  },
+  "m_Name": "Control Mapper Metadata",
+  "actionData": {
+    "Array": [
+      {
+        "name": "Jump",
+        "actionId": 2,
+        "description": "Jumps ENA up across objects or onto platforms.",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Interact",
+        "actionId": 5,
+        "description": "Interacts with the character or object in front of ENA.",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Crouch",
+        "actionId": 14,
+        "description": "Crouches ENA down to navigate tight spaces.",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Sprint",
+        "actionId": 12,
+        "description": "I want ENA to run.",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Use Tool (1)",
+        "actionId": 31,
+        "description": "Uses the primary function of the equipped tool.",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Use Tool (2)",
+        "actionId": 32,
+        "description": "Uses the secondary function of the equipped tool.",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Move Vertical",
+        "actionId": 1,
+        "description": "Moves ENA forward or backward.",
+        "positiveDescription": "Moves ENA forward.",
+        "negativeDescription": "Moves ENA backward."
+      },
+      {
+        "name": "Move Horizontal",
+        "actionId": 0,
+        "description": "Moves ENA left or right.",
+        "positiveDescription": "Moves ENA to the right.",
+        "negativeDescription": "Moves ENA to the left."
+      },
+      {
+        "name": "Look Vertical",
+        "actionId": 3,
+        "description": "Moves camera up or down.",
+        "positiveDescription": "Moves camera up.",
+        "negativeDescription": "Moves camera down."
+      },
+      {
+        "name": "Look Vertical",
+        "actionId": 11,
+        "description": "Moves camera up or down.",
+        "positiveDescription": "Moves camera up.",
+        "negativeDescription": "Moves camera down."
+      },
+      {
+        "name": "Look Horizontal",
+        "actionId": 4,
+        "description": "Moves camera left or right.",
+        "positiveDescription": "Moves camera right.",
+        "negativeDescription": "Moves camera left."
+      },
+      {
+        "name": "Look Horizontal",
+        "actionId": 10,
+        "description": "Moves camera left or right.",
+        "positiveDescription": "Moves camera right.",
+        "negativeDescription": "Moves camera left."
+      },
+      {
+        "name": "Open Console",
+        "actionId": 6,
+        "description": "",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Pause",
+        "actionId": 7,
+        "description": "",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Previous Console Entry",
+        "actionId": 8,
+        "description": "",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Next Console Entry",
+        "actionId": 9,
+        "description": "",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Focus",
+        "actionId": 13,
+        "description": "Hold to focus your eyes onto a distant object",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "View Job Listings",
+        "actionId": 15,
+        "description": "Shows job listings, acquired tools, and dialogue history.",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Tool Menu",
+        "actionId": 33,
+        "description": "Shows a menu to select a tool.",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Equip: Next Tool",
+        "actionId": 16,
+        "description": "Selects the following tool.",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Equip: Previous Tool",
+        "actionId": 17,
+        "description": "Selects the previous tool.",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Equip: Hands",
+        "actionId": 18,
+        "description": "Unequip any tool currently in hand",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Equip: Set 1",
+        "actionId": 19,
+        "description": "Switch between \"Set 1\" tools",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Equip: Set 2",
+        "actionId": 20,
+        "description": "Switch between \"Set 2\" tools",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Equip: Set 3",
+        "actionId": 21,
+        "description": "Switch between \"Set 3\" tools",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Equip: Set 4",
+        "actionId": 22,
+        "description": "Switch between \"Set 4\" tools",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Equip: Set 5",
+        "actionId": 23,
+        "description": "Switch between \"Set 5\" tools",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Equip: Set 6",
+        "actionId": 24,
+        "description": "Switch between \"Set 6\" tools",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Equip: Set 7",
+        "actionId": 25,
+        "description": "Switch between \"Set 7\" tools",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Equip: Set 8",
+        "actionId": 26,
+        "description": "Switch between \"Set 8\" tools",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Equip: Set 9",
+        "actionId": 27,
+        "description": "Switch between \"Set 9\" tools",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "UI Horizontal",
+        "actionId": 34,
+        "description": "",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "UI Vertical",
+        "actionId": 35,
+        "description": "",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "UI Submit",
+        "actionId": 36,
+        "description": "",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "UI Cancel",
+        "actionId": 37,
+        "description": "",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "UI Next Tab",
+        "actionId": 38,
+        "description": "",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "UI Prev Tab",
+        "actionId": 39,
+        "description": "",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "UI Special 1",
+        "actionId": 40,
+        "description": "",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "UI Special 2",
+        "actionId": 41,
+        "description": "",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Free Look",
+        "actionId": 42,
+        "description": "Moves camera freely.",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      },
+      {
+        "name": "Skip Cutscene",
+        "actionId": 43,
+        "description": "Skips a paused cutscene sequence.",
+        "positiveDescription": "",
+        "negativeDescription": ""
+      }
+    ]
+  }
+}

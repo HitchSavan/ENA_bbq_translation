@@ -1,0 +1,250 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 359
+  },
+  "m_Name": "QA_00_00_Find_Receptionist",
+  "quest": {
+    "key": "findReception",
+    "objectives": {
+      "Array": [
+        {
+          "key": "talkReception",
+          "title": "Talk to the Receptionist!",
+          "overrideDescription": 0,
+          "description": "Talk to the Receptionist",
+          "useSpecialGoal": 0,
+          "progressGoal": 0.0
+        }
+      ]
+    },
+    "icon": {
+      "m_FileID": 0,
+      "m_PathID": 547
+    },
+    "useIconAnimation": 1,
+    "iconAnimation": {
+      "endBehavior": 1,
+      "nextState": "",
+      "nextStateCondition": "",
+      "frameInterval": 0.042,
+      "sprites": {
+        "Array": [
+          {
+            "m_FileID": 0,
+            "m_PathID": 547
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 547
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 547
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 547
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 788
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 788
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 788
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 788
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1646
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1646
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1646
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1063
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 711
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 711
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 711
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 711
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 788
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 788
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 788
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 788
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1514
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1514
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1514
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1514
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1646
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1646
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1646
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1646
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1483
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1483
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1483
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1483
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1483
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 762
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 762
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 762
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 711
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 711
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 711
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 711
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 532
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 532
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 532
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 532
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1063
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1063
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1063
+          },
+          {
+            "m_FileID": 0,
+            "m_PathID": 1063
+          }
+        ]
+      }
+    },
+    "automaticIconHeight": 1,
+    "iconHeight": 277.0,
+    "iconValueTarget": 0,
+    "iconReferenceMaterial": {
+      "m_FileID": 0,
+      "m_PathID": 30
+    },
+    "titleColor": {
+      "r": 0.5494838,
+      "g": 0.7344969,
+      "b": 0.7924528,
+      "a": 1.0
+    },
+    "title": "HELP NEEDED",
+    "subtitle": "Talk to the Receptionist!",
+    "description": "Downstairs, you'll find the Receptionist. \nUse those interrogative sales tactics of yours and get more info on what's going on here. We need to get rid of this nasty smoke, ENA!"
+  }
+}

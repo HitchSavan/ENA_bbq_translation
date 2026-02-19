@@ -1,0 +1,458 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 980
+  },
+  "m_Name": "Xbox One Controller",
+  "controllerDataFiles": {
+    "m_FileID": 0,
+    "m_PathID": 6955
+  },
+  "controllerGuid": "19002688-7406-4f4a-8340-8d25335406c8",
+  "glyphs": {
+    "Array": [
+      {
+        "inputID": 0,
+        "description": "Left Stick X",
+        "positiveDescription": "Left Stick Right",
+        "negativeDescription": "Left Stick Left",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1062
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 1332
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 1556
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 1,
+        "description": "Left Stick Y",
+        "positiveDescription": "Left Stick Up",
+        "negativeDescription": "Left Stick Down",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1262
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 1418
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 672
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 2,
+        "description": "Right Stick X",
+        "positiveDescription": "Right Stick Right",
+        "negativeDescription": "Right Stick Left",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1211
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 1268
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 681
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 3,
+        "description": "Right Stick Y",
+        "positiveDescription": "Right Stick Up",
+        "negativeDescription": "Right Stick Down",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1314
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 1491
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 1431
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 4,
+        "description": "Left Trigger",
+        "positiveDescription": "Left Trigger",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 728
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 5,
+        "description": "Right Trigger",
+        "positiveDescription": "Right Trigger",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 701
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 6,
+        "description": "A",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1269
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 7,
+        "description": "B",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 616
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 8,
+        "description": "X",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1208
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 9,
+        "description": "Y",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 673
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 10,
+        "description": "Left Shoulder",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1306
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 11,
+        "description": "Right Shoulder",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1430
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 12,
+        "description": "View",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1238
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 13,
+        "description": "Menu",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1450
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 22,
+        "description": "Guide",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1359
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 14,
+        "description": "Left Stick Button",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 760
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 15,
+        "description": "Right Stick Button",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 722
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 16,
+        "description": "D-Pad Up",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1285
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 17,
+        "description": "D-Pad Right",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1298
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 18,
+        "description": "D-Pad Down",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1349
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 19,
+        "description": "D-Pad Left",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 945
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 20,
+        "description": "Left Stick",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1346
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      },
+      {
+        "inputID": 21,
+        "description": "Right Stick",
+        "positiveDescription": "",
+        "negativeDescription": "",
+        "sprite": {
+          "m_FileID": 0,
+          "m_PathID": 1368
+        },
+        "positiveSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "negativeSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "textMeshSpriteSheetName": "sp_Glyphs_Xbox"
+      }
+    ]
+  }
+}

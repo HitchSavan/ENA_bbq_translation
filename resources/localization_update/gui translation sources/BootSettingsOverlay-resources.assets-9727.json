@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3316
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 230
+  },
+  "m_Name": "",
+  "selectable": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "container": {
+    "m_FileID": 0,
+    "m_PathID": 1950
+  },
+  "showDisclaimerPanel": 1,
+  "disclaimerDuration": 20.0,
+  "disclaimerDurationText": {
+    "m_FileID": 0,
+    "m_PathID": 9201
+  },
+  "confirmButton": {
+    "m_FileID": 0,
+    "m_PathID": 2343
+  },
+  "volumeSlider": {
+    "m_FileID": 0,
+    "m_PathID": 3036
+  },
+  "gammaSlider": {
+    "m_FileID": 0,
+    "m_PathID": 2595
+  },
+  "descriptionOutput": {
+    "m_FileID": 0,
+    "m_PathID": 7980
+  },
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": 3715
+  },
+  "disclaimerPanel": {
+    "m_FileID": 0,
+    "m_PathID": 2099
+  },
+  "headImage": {
+    "m_FileID": 0,
+    "m_PathID": 7438
+  },
+  "volumeDescription": "CAN YOU HEAR SOMETHING?\n<size=36>Adjust the slider until the volume is at a COMFORTABLE level…",
+  "gammaDescription": "GET YOUR EYES WORKING.\n<size=36>Adjust the slider until the face on the left is visible..."
+}
