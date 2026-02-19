@@ -1,0 +1,1318 @@
+We can't understand it.=Мы не сможем этого понять.
+A mysterious productivity ritual known as "The Nap".=Таинственный ритуал продуктивности, известный как "Вздремнуть".
+<style\=Whisper>The flea is staring at your throat with such a worried look. Perhaps it's time to drink some water.</style>=<style\=Whisper>Блоха обеспокоенно смотрит на твое горло. Возможно, самое время выпить немного воды.</style>
+This doesn't work anymore.=Оно больше не работает.
+It's cold.=Холодное.
+It's warm.=Тёплое.
+This sounds empty now.=Теперь оно звучит пустым.
+This never worked.=Оно никогда не работало.
+This is stale.=Оно залежалось.
+It's still wet.=Всё ещё мокрое.
+It's too bright.=Слишком ярко.
+No need to use this now.=Сейчас нет необходимости.
+Open the Lonely Door?=Открыть Одинокую Дверь?
+Open=Открыть
+Leave=Уйти
+Open the Crowded Door?=Открыть Людную Дверь?
+Open=Открыть
+Leave=Уйти
+Open this Door?=Открыть эту Дверь?
+Open=Открыть
+Leave=Уйти
+Open this Door?=Открыть эту Дверь?
+Open=Открыть
+Leave=Уйти
+This Door seems to be out of order, for the moment.=Похоже, в данный момент эта Дверь вышла из строя.
+This Door is restricted for the time being.=В настоящее время доступ к этой Двери ограничен.
+...=...
+It's not functioning. That's concerning.=Не работает. Это беспокоит.
+Slot machines, they feed on hope.=Игровые автоматы. Они питаются надеждой.
+One way only.=Путь в один конец.
+Any good business would be open all hours.=Любой уважающий себя бизнес будет открыт круглосуточно.
+It's much better when it's working.=Намного лучше, когда оно работает.
+A blood fountain, although this kind of blood is only for decoration.=Кровавый фонтан. Хотя эта кровь только для украшения.
+Through various electrochemical changes, it can take a variety of forms. In this case, it takes the form of a hot dog stand.=Через различные электрохимические изменения оно может принимать разные формы. В данном случае оно приняло форму прилавка с хот-догами.
+Lights welcoming the aperture of the event. What a job!=Огни приветствуют торжественное открытие. Что за работа!
+The best resources seem to come from stress. Good job, Lantern Man.=По-видимому, лучшие ресурсы идут от стресса. Хорошая работа, Человек-Фонарь.
+Higher altitudes help produce even better resources. Good job, Lantern Man.=Большая высота помогает производить лучшие ресурсы. Хорошая работа, Человек-Фонарь.
+Through the glass of the Vivarium lies the natural habitat of legs.=За стеклом вивария находится естественная среда обитания ног.
+They swim freely through the blood so bountifully provided by nature.=Они свободно плывут сквозь кровь, так щедро предоставленную природой.
+That island in the distance seems to be the Boss's secret hideout.=Видимо остров вдалике - секретное укрытие Босса.
+It is currently too hidden, and too secret. It's best to get rid of the smoke first.=Сейчас он слишком скрыт, слишком секретен. Лучше сначала избавиться от дыма.
+<style\=ENASales>Hope you don't mind, but could you tell me-</style>=<style\=ENASales>Надеюсь Вы не возражаете, но не могли бы Вы мне сказать-</style>
+<style\=ENAMean>WHERE THE HELL IS THE BOSS?!</style>=<style\=ENAMean>ГДЕ ЧЁРТ ВОЗЬМИ БОСС?!</style>
+<style\=Dratula>YESSS, I AM THE BOSS!! HA HA HA HAH!!</style>=<style\=Dratula>ДААА, Я БОСС!! ХА ХА ХА ХАА!!</style>
+No you're not! Idiot! Don't believe him, ENA. He is not the Boss.=Нет, это не так! Дурак! Не верь ему, ENA. Он не Босс.
+<style\=Dratula>OKAY, YOU GOT ME!! I AM NOT THE BOSS, NOR A PENGUIN, BUT—IN FACT—THE GREAT DRATULAAA!!</style>=<style\=Dratula>ЛАДНО, ВЫ МЕНЯ ПОДЛОВИЛИ!! Я НЕ БОСС, КАК И НЕ ПИНГВИН, НО—ВООБЩЕ-ТО—ВЕЛИКИЙ ДРАТУЛААА!!</style>
+This guy is nuts, I can't stand another minute with him!=Этот парень псих, я и минуты с ним не выдержу!
+<style\=Dratula>I AM NOT NUTS, I AM DRATULA.</style>=<style\=Dratula>Я НЕ ПСИХ, Я ДРАТУЛА.</style>
+<style\=ENASales>What are your pain points? What's your problem? What are our business struggles today?</style>=<style\=ENASales>Каковы Ваши болевые точки? Что у Вас за проблемы? Какие у нас деловые трудности на сегодня?</style>
+<style\=ENASales>Let me help you invest in your future.</style>=<style\=ENASales>Позвольте мне инвестировать в Ваше будущее.</style>
+Eh?! Is this another one of your prism schemes? Stop with those complex words, you're making me dizzy.=А?! Это одна из твоих призмовых схем? Хватит таких сложных слов, у меня голова кругом идёт.
+<style\=ENAMean>NOOOOO!! JUST TELL ME ABOUT THIS DUMB JOB ALREADY!!!</style>=<style\=ENAMean>НЕЕЕЕТ!! ПРОСТО РАССКАЖИ МНЕ УЖЕ ПРО ЭТУ ТУПУЮ РАБОТУ!!!</style>
+Being proactive at work, eh? Good signal, good signal. Anyways, listen carefully—=Инициативность в работе, а? Хороший признак, хороший. Итак, слушай внимательно—
+It took a while, but this windbag finally spat out the Boss's location.=Заняло время, но этот болтун наконец выдал местонахождение Босса.
+The only problem is...=Единственная проблема в том, что...
+YOU'RE LATE.=ТЫ ОПОЗДАЛА.
+And now we're running out of time to <style\=Hint>put that dead meat in its place</style>!=И теперь у нас кончается время, чтобы <style\=Hint>поставить этот труп на своё место</style>!
+<style\=ENASales>Huh. Seems I'm out of the loop. Shall we review the job description?</style>=<style\=ENASales>Ох. Видимо я не в курсе последних событий. Не стоит ли нам ознакормится с должностной инструкцией?</style>
+Arghh... well, as you'd say in that wacky language of yours, we're aiming for the Boss's gut this mission.=Аххх... ну, выражаясь твоим странным языком, на этой миссии мы целимся Боссу под дых.
+He's our greatest... uhhh... "work target" yet.=Он - наша главная... ааах... "рабочая цель" на данный момент.
+<style\=ENASales>Understood: aim for the target.</style>=<style\=ENASales>Понятно: целимся в цель.</style>
+Ehh. Yeah.=Эмм. Ага.
+What is this? Who's smoking this much–=Что такое? Кто столько накурил–
+Ahhh, NO GOOD, NO GOOD! All of this smoke in the way is really not doing any good for my lungs!=Ооох, ПЛОХО ДЕЛО, ПЛОХО! Весь этот дым ничего хорошего не делает для моих лёгких!
+I hate cigarette smoke! It's the worst!=Ненавижу сигаретный дым! Просто ужасно!
+<style\=Dratula><size\=50%>I AM DRATULA.</size></style>=<style\=Dratula><size\=50%>Я ДРАТУЛА.</size></style>
+Shut up!=Заткнись!
+<style\=ENASales>Let’s arrange our next ambush at the scene. Could you point out the Boss's location?</style>=<style\=ENASales>Давайте организуем нашу следующую засаду на месте. Не могли бы вы указать на местонахождение Босса?</style>
+Ehh. C'mere. Here, here. Over here.=Ээ. Иди сюда. Сюда, сюда. Вот сюда.
+Look, see that island? It seems the Boss is hiding there, ENA. But I think we should <style\=Hint>get rid of all this smoke first</style>.=Гляди, видишь этот остров? Видимо там прячется Босс, ENA. Но думаю нам стоит <style\=Hint>сначала избавиться от этого дыма</style>.
+Well? Do we have ourselves a deal?=Ну что? Мы договорились?
+The other day I went to the <style\=Door>Lonely Door</style> and it gave me a big, gruesome hug.=Однажды я сходил к <style\=Door>Одинокой Двери</style> и она дала мне крепкие, ужасающие обьятия.
+Where would we all be without the <style\=Door>Doors</style>?=Где бы мы были без <style\=Door>Дверей</style>?
+You are waiting for me to go so you can use this machine full of <i>my</i> money, aren'tcha?=Ды ждешь пока я уйду, чтобы сыграть в автомат, полный <i>моих</i> денег, не так ли?
+I heard that the perfect slot machine was somewhere around here. How very dangerous.=Я слышал, что где-то здесь есть идельный игровой автомат. Крайне опасно.
+Mystery...=Загадка...
+Listen to yourself, you don't even make cents. Typical RENA.=Послушай себя, в твоих словах нет ни цента смысла. Типичная RENA.
+This is the real deal, sugar-toot. These machines will make me rich someday!=Тут всё серьёзно, сладкоежка. Однажды эти автоматы сделают меня богачом!
+I heard a voice behind me once, but when I turned around, all I saw was a bunch of these machines.=Как-то раз я слышал голос позади себя, но когда я обернулся, всё, что я увидел - куча этих автоматов.
+I took two, maybe three stops here, and that was about it. Now I'm just waiting for the <style\=Hint>smoke</style> to thicken.=Сделал две, может три ставки, и всё. Теперь я просто жду, пока <style\=Hint>дым</style> не сгустится.
+<style\=ENASales>Did I catch you at an okay time?</style>=<style\=ENASales>Я застала Вас в удобное время?</style>
+Ugh, you again! Go away! You smell poor! Go eat a TV dinner, you broke, pink-collared slug!=Ухх, опять ты! Уходи! Пахнешь бедностью! Иди поужинай перед ТВ, ты, нищий слизняк в розовом воротничке!
+<style\=ENASales>I'm afraid that the smoke here is polluting our lungs—</style>=<style\=ENASales>Боюсь этот дым загрязняет наши лёгкие—</style>
+<style\=ENAMean>LET’S CUT THE CRAP—YES! You will get rid of it for us so I can deal with the man in charge.</style>=<style\=ENAMean>ПОКОНЧИМ С ЭТИМ ДЕРЬМОМ—ДА! Ты избавишься от него, чтобы я смогла разобраться с начальством.</style>
+What?! I hope you are spitting some needy nonsense. You are too late! The Boss isn't even born yet.=Что?! Надеюсь ты несешь какую-то убогую чушь. Ты опоздала! Босс ещё даже не родился.
+Besides, it's not on me to give an order like that! Now SHOO! Come back when you're richer.=К тому же, не мне отдавать подобный приказ! Теперь КЫШ! Возвращайся когда ты станешь побогаче.
+You poor, needy, beggarly, hard up, schlocky, frowzy, scrimpy clodpoll.=Ты бедный, убогий, нищий, неряшливый, дешёвый, душный, скупой болван.
+<style\=ENASales>Who else is involved in the decision-making?</style>=<style\=ENASales>Кто ещё принимает участие в принятии решений?</style>
+Ah, making more questions, are we? You seem rather... problematic.=Ах, ещё больше вопросов, да? Ты кажешься довольно... проблематичной.
+<style\=ENAMean>Are you poor with words or what?! Let's TALK, YOU CHEAP ASSISTANT!</style>=<style\=ENAMean>Ты что, на слова бедна что ли?! Давай ПОГОВОРИМ, ТЫ ДЕШЕВЫЙ АССИСТЕНТ!</style>
+Poor?! CHEAP?! ME?!=Бедна?! ДЕШЕВЫЙ?! Я?!
+<style\=ENASales>Worry not, you are still a child of G0D.</style>=<style\=ENASales>Не беспокойтесь, Вы всё ещё дитя Б0ЖЬЕ.</style>
+You are pushing your luck, lady.=Вы испытываете свою удачу, юная леди.
+Look, the <style\=Hint><b>Genies</b></style> are the only ones with the authority to call off the smoke.=Слушай, <style\=Hint><b>Джинны</b></style> единственные у кого есть полномочия отозвать дым.
+They are glorified inside every <style\=Door>Door</style> you see in this place. And don't you dare disrespect the <style\=Door>Doors</style>!=Они прославляемы внутри каждой <style\=Door>Двери</style> что ты здесь видишь. И не смей проявлять неуважение к <style\=Door>Дверям</style>!
+<style\=ENASales>Bless you for your business.</style>=<style\=ENASales>Благослови Вашу деятельность.</style>
+Welcome back... <style\=Whisper>ugh...</style>=С возвращением... <style\=Whisper>уух...</style>
+What now?=Что ещё?
+I have no time for slacking off and insulting a lowly conman all day. Ask what you need to know and leave!=У меня нет времени бездельничать и оскорблять мелкую мошенницу весь день. Спрашивай что тебе нужно узнать и проваливай!
+About the Lonely Door=Об Одинокой Двери
+<style\=Door>Lonely Door</style>: a magnificent Door. It will always be there for you no matter who you are.=<style\=Door>Одинокая Дверь</style>: прекрасная Дверь. Она всегда будет с тобой, и не важно кто ты.
+Inside this <style\=Door>Door</style>, you will be able to experience the delights of despair and find calming gloom around the buildings of the <style\=Hint>Uncanny Streets</style>.=Внутри этой <style\=Door>Двери</style> ты познаешь изыски отчаяния и обнаружишь успокаивающий мрак в тени зданий <style\=Hint>Зловещих Улиц</style>.
+If you are a party person, you can always switch the mood and attend the infamous <style\=Hint>Purge Event</style>.=Если ты любитель вечеринок, ты всегда можешь сменить настрой и посетить печально известный <style\=Hint>Праздник Очищения</style>.
+Although, due to all the excitement that the atmosphere of this <style\=Door>Door</style> distills, you may want to look for a bathroom...=Хотя, из-за того волнения, что источаяет атмосфера этой <style\=Door>Двери</style>, тебе захочется поискать туалет...
+About the Crowd Door=О Людной Двери
+<style\=Door>Crowd Door</style>: the most mysterious Door. They say this Door was once part of the body of the Genie of this place.=<style\=Door>Людная Дверь</style>: самая загадочная Дверь. Говорят, что эта Дверь однажды была частью тела местного Джинна.
+Inside, there is the contest of a lifetime! If you win four games, you earn VIP tickets to an unforgettable trip with the one and only <br><style\=Hint>Piero the Genie</style>!=Внутри - соревнование всей жизни! Если выиграешь четыре игры, то заработаешь VIP билеты в незабываемое путеществие с единственным и неповторимым <br><style\=Hint>Джинном Пьеро</style>!
+Throw away your miserable, ugly life and... wait—you can't go here!=Отбрось свою жалкую, никчёмную жизнь и... подожди—ты не можешь туда пойти!
+ENA is permanently banned from this <style\=Door>Door</style>! Ugh, forget everything I just said!=Для ENЫ перманентно запрещен проход в эту <style\=Door>Дверь</style>! Ухх, забудь обо всём что я сказала!
+About the Horse Door=О Лошадиной Двери
+<style\=Door>Horse Door</style>: the imponent stallion. Beautiful Door.=<style\=Door>Лошадиная Дверь</style>: властный жеребец. Красивая Дверь.
+This <style\=Door>Door</style> is pitifully closed due to the recent death of the past Genie. Although a new Genie is on their way.=Эта <style\=Door>Дверь</style> прескорбно закрыта из-за недавней кончины прошлого Джинна. Хотя новый Джинн уже в пути.
+I'm pretty sure that professional we reached out to is looking for someone who can organize the upcoming <style\=Hint>Welcome Event</style>.=Уверена, что профессионал, с которым мы связались, уже в поиске того, кто может организовать грядущую <style\=Hint>Приветственную Инаугурацию</style>.
+Leave=Уйти
+And just where do you think you're going?! That's not a place for scammers like you!=И куда ты по-твоему идешь?! Таким аферистам там не место!
+Have you seen the <style\=Door>Lonely Door</style>? Honestly, it's kinda… smokin' hot.=Видела <style\=Door>Одинокую Дверь</style>? Если честно, она типа… чертовски горяча.
+May the Big One bless the <style\=Door>Doors</style>!=Да благословлены будут <style\=Door>Двери</style> Большим!
+The <style\=Hint>smoke</style> in this place is pretty intimate, not gonna lie.=<style\=Hint>Дым</style> здесь слишком интимный, если честно.
+You have a job, right? You probably don't need to go by way of the <style\=Door>Crowds or Hands</style>, then—=У тебя есть работа, так? Возможно тогда тебе не нужно идти по пути <style\=Door>Толп или Рук</style>—
+...oh, wait. That's what your job is, huh? Sucks.=...оу, постой. Это и есть твоя работа, а? Хреново.
+You look like an entity well accustomed to spiritual warfare.=Ты выглядишь как сущность, хорошо знакомая с духовной войной.
+One last game and I'm heading to the <style\=Door>Crowd Door</style>. I heard about some crazy contests with great retributions inside!=Последняя игра и я направлюсь к <style\=Door>Людной Двери</style>. Слышал, что внутри безумные состязания с великим воздаянием!
+My mother always said, "He who plays out of necessity, loses out of obligation".=Моя матушка всегда говорила: "Он тот, кто играет по необходимости, и проигрывает по обязательству".
+I've been wanting to roll some bones!=Я всё хотел кости побросать!
+I checked this place top to the bottom, only saw two bones, right? Imagine my disappointment when I found out I couldn't roll ANY of them.=Я это место сверху до низу обыскал, только две кости видел, а? Представь моё разочарование, когда я узнал, что не могу брость НИ ОДНУ из них.
+How am I supposed to win big now?!=И как мне теперь куш сорвать?!
+A trip to the supermarket isn't that long and it only requires one pair of pants!=Поход в магазин не такой уж и долгий, да и требует всего одну пару штанов!
+I AM HERE TO LOAD UP ON DEEP-FRIED CYLINDERS.=Я ЗДЕСЬ, ЧТОБЫ НАСЫТИТЬСЯ ФРИТЮРНЫМИ ЦИЛИНДРАМИ.
+GUARANTEED TO PUT HAIR ON MY CHEST.=ОНИ ГАРАНТИРОВАНО ВЫРАСТЯТ У МЕНЯ ВОЛОСЫ НА ГРУДИ.
+DEEP FRIED CYLINDERS.=ФРИТЮРНЫЕ ЦИЛИНДРЫ.
+<b>HAIR.</b>=<b>ВОЛОСЫ.</b>
+I was told they sold hard drinks here, but... these all seem disappointingly easy.=Мне сказали, что здесь продают крепкие напитки, но... они все разочаровывающе хрупкие.
+...Is anyone here a true Gamer? Maybe there's better snacks in <style\=Door>Crowd Door</style>...=...Здесь есть настоящие Геймеры? Может в <style\=Door>Людной Двери</style> есть закуски получше...
+Maybe at <style\=Door>Crowd Door</style>..............=Может в <style\=Door>Людной Двери</style>..............
+I heard they have a real, living Taquería there........=Слышал, что у них там есть настоящая, живая Такерия........
+...=...
+Hmmm!=Хммм!
+S-sorry, am I required to talk to you?=П-прости, я обязана с тобой говорить?
+<style\=ENASales>Do you want me to turn around and roll my window down?</style>=<style\=ENASales>Вы хотите чтобы я развернулась и опустила окно?</style>
+Um... If you are that desperate to talk to someone, I could maybe spit some words at your face...=Эм... Если ты так отчаялась поговорить с кем-то, то наверное я могу бросить тебе в лицо пару слов...
+I'm new around here. I've been hired at this place to do whatever people think I'm supposed to do.=Я новенькая. Я была нанята заниматься тем, чем люди считают я должна заниматься.
+<style\=ENASales>YOU look like a fellow entrepreneur.</style>=<style\=ENASales>ВЫ выглядите как коллега-предприниматель.</style>
+<style\=ENASales>Let me shake your hand and collect your genius germs.</style>=<style\=ENASales>Позвольте пожать Вашу руку и собрать Ваших микробов гениальности.</style>
+Ah... Sorry, handshakes weren't part of the job description.=Ах... Извини, рукопожатия не входили в описание моей работы.
+They only hired me to find an entity that can organize the inauguration of <style\=Door>Horse Door</style>'s new Genie.=Они наняли меня только для того, чтобы найти сущность, способную организовать инаугурацию нового Джинна для <style\=Door>Лошадиной Двери</style>.
+If you know an entity, fax me a blood sample immediately!=Если знаешь такую сущность - немедленно отправь мне по факсу образец крови!
+Fax number: <size\=48><sprite\="CG_DM_Invert" index\=0></size>=Номер факса: <size\=48><sprite\="CG_DM_Invert" index\=0></size>
+My whole life is in shambles right now... I'd really like to be able to just do the work I'm paid to do.=Вся моя жизнь сейчас - сплошная неразбериха... Я бы правда хотела просто сделать работу, за которую мне платят.
+I turned down another job opportunity to be here...=Я отклонила другой оффер чтобы быть здесь...
+<style\=ENASales>You must be the entity that figured out where our target was. Is that verifiably true?</style>=<style\=ENASales>Должно быть Вы - сущность, что обнаружила где находится наша цель. Это подтверждаемо?</style>
+<style\=Dratula>VHAT?!! DID YOU CALL ME A STINKY PENGVIN?!!</style>=<style\=Dratula>ШТО?!! ТЫ НАЗВАЛА МЕНЯ ВОНЮЧИМ ПИНГВИНОМ?!!</style>
+<style\=ENASales>No. (But I know a guy who could get you one.)</style>=<style\=ENASales>Нет. (Но я знаю парня, который может достать такого.)</style>
+<style\=Dratula>I CAN HEAR YOUR THOUGHTS!! STOP!!</style>=<style\=Dratula>Я СЛЫШУ ТВОИ МЫСЛИ!! СТОП!!</style>
+<style\=Dratula>I AM DRATULAAAAAAAAAAAAAAAAAAA!!!</style>=<style\=Dratula>Я ДРАТУЛААААААААААААААААААА!!!</style>
+<style\=Dratula>I AM A VAMPIRE. SO STRONK!!</style>=<style\=Dratula>Я ВАМПИР. ТАКОЙ СИЛЬХНЫЙ!!</style>
+<style\=Dratula>GOOD MORNINK.</style>=<style\=Dratula>ДОБГХОЕ УТРО.</style>
+As you might imagine, I am having a hard time breathing, sitting here... working.=Как можешь представить, мне тяжеловато дышать, сидя тут... работая.
+GO BACK TO WHERE YOU CAME FROM! There you will <style\=Hint>find the Receptionist.</style>=ИДИ ОТКУДА ПРИШЛА! Там ты <style\=Hint>встретишь Секретаря.</style>
+Be sure to ask her how we can reach the Boss without exploding our lungs in the process!=Убедись, что спросила её про то, как мы можем добраться до Босса не разорвав в процессе лёгкие!
+<style\=ENASales>That is most categorically doable.</style>=<style\=ENASales>Это категорически выполнимо.</style>
+I heard that the <style\=Hint>Genies</style> are pretty popular around here, but I have no idea what a "genie" even is.=Слышал, что <style\=Hint>Джинны</style> здесь очень популярны, но я понятия не имею, что "джинн" вообще такое.
+I bet they are the banana-smoking types. How lewd.=Готов поспорить, что они из тех, кто бананы курит. Как пошло.
+COUGH COUGH COUGH.... COUGH!!! Who even smokes this much?!=КХА КХА КХА.... КХА!!! Кто вообще столько курит?!
+Sweat that shirt, ENA! Keep up that hard work.=Пропотей эту рубашку, ENA! Продолжай трудиться в том же духе.
+Hmm... today's horoscope reads: "Get your ass in gear". Unlucky numbers are: 27, 716, -3, 80.58 and 100.=Хмм... в сегодняшнем гороскопе сказано: "Готовь задницу". Несчастливые номера: 27, 716, -3, 80.58 и 100.
+I will do my best by waiting for you here. Don't worry!=Я буду стараться изо всех сил ждать тебя здесь. Не беспокойся!
+...=...
+...=...
+HEHEHEH. I Am. The Boss. Heheheheh.=ХЕХЕХЕХ. Я. Босс. Хехехехех.
+<style\=ENAMean>Hah! Boss of what? Hogwash?</style>=<style\=ENAMean>Хах! Босс чего? Брехни?</style>
+AHHH... ƎNA. Unpopular Everywhere. Aren't YOU?=АААХ... ƎNA. Непопулярна Всюду. Не так ЛИ?
+I Have Studied. ƎNA. For. A Long. LONG? TIME!=Я Изучал. ƎNA. Очень. Долгое. ДОЛГОЕ? ВРЕМЯ!
+<style\=ENASales>Say, are you a professional stalker? Don't take it personally.</style>=<style\=ENASales>Скажите, Вы профессиональный сталкер? Ничего личного.</style>
+NO! NO. NO. NO. Common Mistake. But Sad Mistake.=НЕТ! НЕТ. НЕТ. НЕТ. Частая Ошибка. Но Печальная Ошибка.
+“Stalker” Entities. Are Inside <style\=Door>Crowd Door</style>. Begging For Autographs. For Fame.=Сущности “Сталкеры”. Внутри <style\=Door>Людной Двери</style>. Выпрашивают Автографы. Известность.
+No Piero The Genie. EQUALS! No Town.=Нет Джинна Пьеро. РАВНО! Нет Города.
+<style\=ENASales>Crowd Door, is it? Sounds like we've got busyness there.</style>=<style\=ENASales>Людная Дверь, да? Похоже, нас там ждет занятость.</style>
+I Am Confident. YOU Are Unwelcome! At. <style\=Door>The Door</style>. Piero The Genie. Is An Entity. With Deviant Tastes.=Я Уверен. ТЫ Нежеланный Гость! В. <style\=Door>Двери</style>. Джинн Пьеро. Сущность. С Извращёнными Вкусами.
+Just. Like. ME! HEHEHEH...=Прямо. Как. Я! ХЕХЕХЕХ...
+HEHEHEHEH.....=ХЕХЕХЕХЕХ.....
+ƎNA! What A Delight. To See. YOU!=ƎNA! Какое Наслаждение. Видеть. ТЕБЯ!
+HEHEHEHEH.....=ХЕХЕХЕХЕХ.....
+GLORY! It Is To See. Your Actions. While. YOU Are Trapped Here.=ВЕЛИКОЛЕПИЕ! Видеть. Твои Действия. Пока. ТЫ Здесь В Ловушке.
+In Captivity.=В Заключении.
+...=...
+I am the Boss!=I am the Boss!
+<style\=ENAMean>You're not fooling anyone, FRAUD!</style>=<style\=ENAMean>Никого ты не обманешь, МОШЕННИК!</style>
+Yeah, you right! My name's Kane! And you are ENA!=Yeah, you right! My name's Kane! And you are ENA!
+I have seen you millions of times here, is this something like a simpleton event?!=I have seen you millions of times here, is this something like a simpleton event?!
+HAHAHAHA!=HAHAHAHA!
+Ahhh... anyways, have you seen the <style\=Door>Lonely Door</style> already?! I am a BIG fan.=Ahhh... anyways, have you seen the <style\=Door>Lonely Door</style> already?! I am a BIG fan.
+I am so ready to cruise and party responsibly in every illegal way!=I am so ready to cruise and party responsibly in every illegal way!
+I swear I will finally meet the <style\=Hint>Bathroom</style> this time!=I swear I will finally meet the <style\=Hint>Bathroom</style> this time!
+<style\=ENASales>"Bathroom"? You must be talking about the Genie, true?</style>=<style\=ENASales>"Туалет"? Вы должно быть говорите о Джинне, верно?</style>
+"Genie"?... What a strange way to say Bathroom.="Genie"?... What a strange way to say Bathroom.
+Memories of my last rodeo here are very blurry! Had one too many party poppers.=Memories of my last rodeo here are very blurry! Had one too many party poppers.
+I like the smoke because the <style\=Door>Doors</style> seem to enjoy it! Nobody seems to mind it.=I like the smoke because the <style\=Door>Doors</style> seem to enjoy it! Nobody seems to mind it.
+Remember to pay respect to the <style\=Door>Dooooooooooors</style>!!!=Remember to pay respect to the <style\=Door>Dooooooooooors</style>!!!
+...=...
+əɜɞɢɣɥɢəɜɞɢɢɣɥ əɜɞɢə əɜɞɢɣɢɣɥ əɜɞɥɣɥɢəɜ=əɜɞɢɣɥɢəɜɞɢɢɣɥ əɜɞɢə əɜɞɢɣɢɣɥ əɜɞɥɣɥɢəɜ
+BATHROOM=ТУАЛЕТ
+<style\=Secret>Oddly, there's a sudden urge to go to the Bathroom.</style>=<style\=Secret>Как ни странно, появилась внезапная нужда сходить в Туалет.</style>
+I'm the bus!=Я автобус!
+It's busted.=Уничтожено.
+Can't go anywhere with this.=Так никуда не годится.
+So it goes.=Да будет так.
+Goes it so.=Будет да так.
+This stroll is a waste of time.=Эта прогулка - пустая трата времени.
+Stop this excursion and get back to work?=Закончить эту экскурсию и вернуться к работе?
+Leave this maze=Покинуть лабиринт
+Keep going=Продолжить
+...=...
+...=...
+...?=...?
+Shiny...=Блестит...
+Sparkly...=Искрит...
+This isn't the Genɣɥəɜɞ—=Это не Джиɣɥəɜɞ—
+This isn't the BATHROOM.=Это не ТУАЛЕТ.
+This isn't the BATHROOM.=Это не ТУАЛЕТ.
+Savannah grass.=Травы Саванны.
+You are forgiven for your upcoming sin.=Ты прощена за свой предстоящий грех.
+Repentance doesn't change what's already happened;=Покаяние не изменит того, что уже произошло;
+... All you can do is move forward.=... Всё, что ты можешь - двигаться вперёд.
+It seems like a piece of coral from out of this world.=Похоже на кусок коралла не из этого мира.
+The bus seems to have been here already. It's too late.=Похоже, автобус здесь уже побывал. Слишком поздно.
+The bus doesn't seem to have arrived yet. It's too early.=Похоже, автобус ещё не прибыл. Слишком рано.
+The bus doesn't seem to exist. It's gone.=Похоже, автобуса не существует. Он пропал.
+There's no need to go back. Find the əɜɞɢɣɥɢ.=Нет нужды возвращаться. Найди əɜɞɢɣɥɢ.
+The sounds of partying and chaos are fresh in the air. Seems to be coming from above.=В воздухе свежи звуки празднования и хаоса. Похоже, идут откуда-то сверху.
+They're busy acting.=Они заняты актерской игрой.
+Best not interrupt his performance.=Лучше не прерывать его выступление.
+The names are scratched off.=Имена стёрты.
+It's missing dice.=Не хватает игральной кости.
+It's almost dry.=Почти сухое.
+It's almost warm.=Почти тёплое.
+This isn't the Bathroom.=Это не Туалет.
+This statue's link is not yet secure.=Ссылка этой статуи ещё не безопасна.
+Missing chaperone; Cannot establish link.=Не хватает дуэньи; Не удаётся установить связь.
+I was awaiting you. Here take this.=Я ожидал тебя. Возьми это.
+It won't help you.=Это тебе не поможет.
+Debris from a large structure.=Обломки большого строения.
+A rare device that contains the absolute knowledge of spatial positions.=Редкое устройство, содержащее абсолютное знание пространственных позиций.
+Used to safely navigate great distances.=Используется для безопасного перемещения на большие расстояния.
+Probably taken from a highly advanced vehicle.=Возможно взято из какого-то продвинутого транспорта.
+...=...
+Somewhere, a dog barks an alarm.=Где-то собака подает сигнал тревоги.
+...=...
+There is distant laughter and celebration from within. It sounds like a party.=Внутри слышен отдалённый смех и праздование. Похоже на вечеринку.
+...=...
+No one seems to be home.=Похоже, дома никого.
+...=...
+No one seems to be home.=Похоже, дома никого.
+...=...
+No one's home.=Дом никого.
+...=...
+May the <style\=Door>Doors</style> guide my epic moves.=Да направляют <style\=Door>Двери</style> мои эпичные движения.
+Are you camping here too?=Ты тоже приехала на кемпинг?
+That Shaman was right this whole time and we called him crazy.=Этот Шаман был прав всё это время, а мы называли его безумцем.
+Or... maybe we're the crazy ones for believing him now.=Или... может это мы безумцы, что теперь ему верим.
+I can sense the overflowing tears and sins coming from the Bathroom up there, I swear!!!!!=Я чувствую бьющие через край грехи и слёзы, идущие из Туалета вверху, клянусь!!!!!
+The window is always calling us to witness the beauty of the greatest existential question:=Окно постоянно зовет нас узреть красоту величайшего экзестенциального вопроса:
+"Does the Bathroom REALLY exist?"="Существует ли Туалет на САМОМ деле?"
+Have you seen the Bathroom? Let me know your thoughts.=Ты находила Туалет? Что думаешь?
+I know it's here!!! The Bathroom has got to be in here one place or another!!!=Я знаю, он здесь!!! Туалет так или иначе должен быть где-то здесь!!!
+I'm ready to sell down and start a new wife.=Я готов одешевиться и начать новую жену.
+Don't interrupt me!=Не прерывай меня!
+I'm meditating on a big sound coming out of a great Door!=Я медитирую под громкие звуки, исходящие от великой Двери!
+They don't seem to care about anything not related to Doors.=Похоже, их не интересует ничего, что не касается Дверей.
+Don't interrupt...=Не прерывай...
+I'm sick of that Sham Man in <style\=Hint>Seal House</style>!!!=Я по горло сыт этим Фальш-маном в <style\=Hint>Тюленьем Доме</style>!!!
+Please have mercy and say nothing to him. I have already heard enough gibberish.=Пожалуйста, сжалься надо мной и ничего ему не говори. Я слышал уже достаточно бреда.
+Don't believe that old fruitcake's lies, that Scam Man has no clue where the Bathroom is located!=Не верь лживым речам этого старого чудилы. Этот Афер-ман без понятия, где находится Туалет!
+There's been rumors that the <style\=Hint>Purge Event</style> is the real path to discovering the Bathroom. Oh, I do hope so...=Ходят слухи, что <style\=Hint>Праздник Очищения</style> - настоящий путь к нахождению Туалета. Ох, надеюсь на это...
+"G-E-N-THROOM"? Good gravy, what are you trying to spell me?!="Д-Ж-И-АЛЕТ"? Пресвятые соусы, что ты пытаешься мне продать?!
+You smell just as crazy as that old <style\=Hint>Shaman inside of Seal House</style>.=Пахнешь также безумно, как и тот старый <style\=Hint>Шаман в Тюленьем Доме</style>.
+Time for you two to visit the toilet of eternal damnation!=Время вам обоим посетить туалет вечных мук!
+Pull yourself up by your boobstraps. Seek help.=Подтяни себя за лямки. Тебе нужна помощь.
+Funny story! I just saw an old woman fall victim to the deceit of that unstable old man at <style\=Hint>Seal House</style>.=Интересно! Я только что видел, как старушка пала жертвой обмана этого нестабильного старика в <style\=Hint>Тюленьем Доме</style>.
+Eh? You want the smoke to disappear?!?!=Ээ? Ты хочешь, чтобы дым исчез?!?!
+Wow! That's the second weirdest thing I've ever heard!=Воу! Это вторая по странности вещь, которую я когда-либо слышал!
+You're going to do WHAT to the Boss?!=Ты хочешь сделать ЧТО с Боссом?!
+Bus stops are a good way to travel around here, but they need the essence of your blood to identify you, of course.=Автобусные остановки - отличный способ перемещения здесь, но им нужна эссенция твоей крови чтобы идентифицировать тебя, разумеется.
+Take a shower before you ride the bus.=Сходи в душ перед тем, как поехать на автобусе.
+Everyone wants to go to the Bathroom, but no one wants to die to reach it. Cowards!!!=Все хотят в Туалет, но никто не хочет пожертвовать жизнью для этого. Трусы!!!
+The <style\=Hint>Purge Event</style> is for delinquents. Don't go.=<style\=Hint>Праздник Очищения</style> только для правонарушителей. Не иди туда.
+I'm off to purchase some water <style\=Hint>at the vending machine</style> before directing myself to the Purge Event.=Я отошёл купить воды <style\=Hint>в автомате</style> перед тем как отправиться на Праздник Очищения.
+Hangovers in the afterlife can make you real thirsty.=Похмелье в загробной жизни может вызвать сильную жажду.
+The giant wanderers around this city say some real creepy things!=Гиганты бродят по этому городу, говоря очень стрёмные вещи!
+Entities really believe we need to explore more of the sky to find the bathroom when only 5% of oceans have been explored.=Некоторые сущности реально верят, что нам надо исследовать небо для поиска туалета, когда исследовано только 5% океана.
+The <style\=Hint>Purge Event</style> was created as an illegal path to the Bathroom. Don't go.=<style\=Hint>Праздник Очищения</style> был организован как нелегальный путь к Туалету. Не ходи туда.
+Isn't it obvious?! Those buildings don't want to fall apart. Don't you see it?! Are you deaf?!=Разве не очевидно?! Эти здания не хотят разваливаться. Ты не поняла?! Ты глухая?!
+Is it raining people, or is it just me?=Это человеческий дождь, или мне кажется?
+...=...
+...=...
+Ah, welcome; for a moment I thought you were a customer.=Ах, добро пожаловать; на секунду я подумала, что ты покупатель.
+Little ENA, if you have ever wondered—it's true, you aren't beautiful enough.=Маленькая ENA, если тебе интересно—это правда, ты недостаточно красива.
+Do you wish to be beautiful? Everyone does. My products won't make you truly beautiful, but perhaps they will hide a few things for long enough?=Желаешь быть красивой? Все желают. Мои товары не сделают тебя поистине красивой, но возможно будут скрывать пару вещей достаточно долго?
+For the right price.=За нужную цену.
+Oh, you again.=Ох, снова ты.
+You are free to look, but know now:<br> I will not haggle, not even to get you off these premises.=Ты можешь смотреть, но впредь знай:<br> я не торгуюсь, даже для того, чтобы ты вышла из этого помещения.
+Go on, my little fool.=Давай, моя маленькая дурашка.
+<b>Jar of Alfredo</b>=<b>Банка Альфредо</b>
+<b>Jar of Alfredo</b><br>For eyes that everyone will want to lose themselves in, forever.<br><br>¢3,000,000=<b>Банка Альфредо</b><br>Для глаз, в которых все хотят себя потерять, навечно.<br><br>¢3,000,000
+<b>Coconut Milk</b>=<b>Кокосовое Молоко</b>
+<b>Coconut Milk</b><br>For that perfect, glossy, clear skin. People will want to approach you; they will despair.<br><br>¢5,000,000=<b>Кокосовое Молоко</b><br>Для такой идеальной, лоснящейся, чистой кожи. Люди будут хотеть к вам подойти; они придут в отчаяние.<br><br>¢5,000,000
+<b>Personal Cheese</b>=<b>Личный Сыр</b>
+<b>Personal Cheese</b><br>Make it yours! Apply liberally for lips from which every word amazes. People won't be able to stop listening to you!<br><br>¢7,000,000=<b>Личный Сыр</b><br>Сделайте его вашим! Обильно применяйте на губы, с которых каждое слово будет удивлять. Люди не смогут перестать слушать вас!<br><br>¢7,000,000
+...=...
+Bells...=Колокола...
+Ask not for whom the bell tolls, ENA.=Спрашивай не по ком звонит колокол, ENA.
+The key to enter the bathroom... two isn't enough.=Ключ к туалету... двух не достаточно.
+They say if you hear three, you can see it.=Говорят, если услышишь три, ты сможешь его увидеть.
+I am hiding from the civil authorities.=Я прячусь от гражданских властей.
+Good luck...=Удачи...
+...=...
+As I said, I am hiding from the civil authorities.=Как я и сказал, я прячусь от гражданских властей.
+They saw I was going to the Purge Event and tried to do terrible things to stop me.=Они видели, что я шёл на Праздник Очищения и пытались сделать ужасные вещи, чтобы остановить меня.
+I am hiding now in this dank pit.=Теперь я прячусь в этой тёмной яме.
+It may be small and dark and cramped and I may never be able to leave again…=Она может и маленькая и тёмная и тесная и возможно я никогда не смогу выбраться…
+…but at least I'm not in prison.=…но по крайней мере я не в тюрьме.
+...=...
+The civil authorities got bored and left.=Гражданским властям наскучило и они ушли.
+And, as my hole in the ground was disappearing, I found I had to leave too.=И, когда моя дыра в земле начала исчезать, я понял, что и мне надо уходить.
+I am here now on this large object.=Теперь я здесь на этом большом объекте.
+It may be huge and empty and grey and there may be nothing interesting in the sky or on the ground and nobody to talk to and I may never be able to leave here for thousands of years.=Он может быть большим и пустым и серым и здесь может не быть ничего интересного в небе или на земле и не с кем поговорить и возможно я никогда не смогу выбраться в течение тысяч лет.
+But at least I'm not in prison.=Но по крайней мере я не в тюрьме.
+Bells.=Колокола.
+…=…
+…=…
+I am waiting for my child.=Я жду своего ребёнка.
+My child is the light of my life.=Мой ребёнок - свет моей жизни.
+I would do anything to make my child happy.=Я бы сделал что угодно, чтобы сделать моего ребёнка счастливым.
+…=…
+My child loves everyone, even you.=Мой ребёнок любит всех, даже тебя.
+This is not my child.=Это не мой ребёнок.
+Bye for now. Be good (I mean, good with horses, you know).=Прощай. Будь добр (я имею ввиду, добр к лошадям, ну знаешь).
+We don't sell Turrón here.=Мы не продаем здесь Туррóн.
+...=...
+I COULD BE THE BOSS!=Я МОГУ БЫТЬ БОССОМ!
+<style\=ENASales>I disagree.</style>=<style\=ENASales>Я не соглашусь.</style>
+HeHEEEEEH, that's right! I am a vending machine!=ХеХЕЕЕЕЕХ, это так! Я торговый автомат!
+"Where dreams are made of wee doodles and tickets for sale are bought for car window wash—"... wait,="Там где мечты сделаны из маленьких каракулей и купонов по скидке, купленных на автомойке—"... погоди,
+EENA?!!=EENA?!!
+I can't sell things to EENA NO NO!!!!!!!!!!!!!!!!!!!!!!!!=Я не могу продавать вещи EENA НЕТ НЕТ!!!!!!!!!!!!!!!!!!!!!!!!
+<style\=ENAMean>GUYS, GUYS—WAIT! I'M  NOT DOING WHAT YOU SAY I'M DOING!</style>=<style\=ENAMean>СЛУШАЙТЕ, СЛУШАЙТЕ—ПОГОДИТЕ! Я  НЕ ДЕЛАЮ ТО, ЧТО ВЫ ГОВОРИТЕ Я ДЕЛАЮ!</style>
+<style\=ENAMean>I'M NOT DOING ANYTHING!</style>=<style\=ENAMean>Я НИЧЕГО НЕ ДЕЛАЮ!</style>
+<style\=ENAMean>I'M NOT DOING ANYTHING AT ALL!</style>=<style\=ENAMean>Я ВООБЩЕ НИЧЕГО НЕ ДЕЛАЮ!</style>
+HOLY CRAP!=ОХРЕНЕТЬ!
+You convinced me!=Ты меня убедила!
+BUT... I can onlyyyy sell one thing to you. Take it or leave.=НО... я могу продать тебе тоооолько одну вещь. Забирай или вали.
+You bought Mayonnaise.=Вы купили Майонез.
+<style\=ENAMean>With prices this low, you can't afford a lifetime to wait!</style>=<style\=ENAMean>С такими низкими ценами, ты не можешь позволить себе ждать всю жизнь!</style>
+Damn right! You found yourself a bargain!=Чертовски верно! Ты нашла выгодную сделку!
+That would be <style\=Quest>10 chocolates--</style>=Это будет стоить <style\=Quest>10 шоколадок--</style>
+BUT! You don't have enough money!=НО! У тебя не достаточно денег!
+<style\=Quest>10 chocolates</style> or leave.=<style\=Quest>10 шоколадок</style> или проваливай.
+NO!=НЕТ!
+Hmmm... maybe another time then.=Хмм... тогда может в другой раз.
+Congratulations on owning your very own Board Member! Be sure to provide him plenty of <style\=Quest>dirt</style>.=Мои поздравления, на получение своего личного Управляющего Лица! Не забывай давать ему достаточно <style\=Quest>грязи</style>.
+Now reach towards <style\=Quest>the giant orb</style> and T R A N S C E N D!=Теперь доберись до <style\=Quest>огромной сферы</style> и В О З Н Е С И С Ь!
+...=...
+Greetings!=Приветствую!
+I shall be happy to explain everything to you:=Я буду рад всё объяснить тебе:
+"One person can be in two places at once. Although, the magician does not have to be in two places at once"...="Один человек может быть в двух местах одновременно. Однако, волшебник не должен быть в двух местах одновременно"...
+"He can be in one place at one time"...="Он может быть одновременно в одном месте"...
+Because he would be lost in the other person's mind.<br><style\=ENASales>Because he would be lost in the other person's mind.</style>=Иначе он бы был потерян в разуме другого человека.<br><style\=ENASales>Иначе он бы был потерян в разуме другого человека.</style>
+I'm glad we understand each other, ENA. YOU are here because you want to be. I can see it in your eyes.=Я рад, что мы понимаем друг друга, ENA. ТЫ здесь, потому что хочешь тут быть. Я вижу это в твоих глазах.
+<style\=ENASales>I'm here for our pending business with-</style>=<style\=ENASales>Я здесь по нашему незавершенному делу с-</style>
+<style\=ENAMean>YOUR STUPID BOSS!!!</style>=<style\=ENAMean>ТВОИМ ТУПЫМ БОССОМ!!!</style>
+<style\=ENAMean>Firstestly, I need to get more info on this pointless Gɢniɢ-</style>=<style\=ENAMean>Неипервейше, мне надо получить больше информации по этому бесполезному Джнинж-</style>
+<style\=ENAMean>Firstestly, I need to get more info on this pointless Bathroom.</style>=<style\=ENAMean>Неипервейше, мне надо получить больше информации по этому бесполезному Туалету.</style>
+...Woah.=...Воу.
+Ahhh, <style\=Hint>the Bathroom</style>. But of course!=Аххх, <style\=Hint>Туалет</style>. Ну конечно!
+You are looking for it, <style\=Quest>that old witch</style> is looking for it, everyone these days is in search of the Bathroom.=Ты его ищещь, <style\=Quest>та старая ведьма</style> ищет его, в наше время все в поисках Туалета.
+Now... you didn't hear it from me, but the way to the entrance is—=Теперь... я тебе не говорил, но путь ко входу—
+The way to enter the Bathroom is through <style\=Hint>that giant orb you see in the sky past the bridge</style>.=Путь ко входу в Туалет лежит через <style\=Hint>ту огромную сферу, что ты видишь в небе за мостом</style>.
+But, in order to reach it, WE must create LIFE itself.=Но, чтобы до неё добраться, МЫ должны создать саму ЖИЗНЬ.
+Now go away, ENA, and <style\=Quest>get a LIFE</style>. That shall be your quest today!=Иди же, ENA, и <style\=Quest>найди настоящую ЖИЗНЬ</style>. Это будет твоим заданием на сегодня!
+...=...
+<style\=ENASales>Let me do some research and get back to you.</style>=<style\=ENASales>Я проведу небольшое исследование и вернусь к Вам.</style>
+...=...
+...=...
+...=...
+...=...
+The Shaman receives the Motherboard.=Шаман получил Плату Управления.
+May the G0DS forgive me for what I'm about to do.=Да простят меня Б0ГИ за то, что я собираюсь сделать.
+ENA! STEP BACK!=ENA! ШАГ НАЗАД!
+...=...
+...=...
+...=...
+...=...
+...=...
+...=...
+What had to be done was done, but... what hadn't been done was done too.=Что нужно было сделать, было сделано, но... чего делать не стоило, было также сделано.
+And now that it is done, it may be done again...=И теперь, когда это было сделано, это может быть сделано вновь...
+... done=... сделано
+... done done=... сделано сделано
+... done done done.=... сделано сделано сделано.
+<style\=ENAMean>DAMN IT, SHUT UP!</style>=<style\=ENAMean>ЧЁРТ ВОЗЬМИ, ЗАТКНИСЬ!</style>
+<style\=ENAMean>YOU KNOW, I DON'T EVEN BELIEVE ANYTHING, BUT YOU'RE BLEEDING OUT SOME REAL BULLSHIT HERE!!!</style>=<style\=ENAMean>ЗНАЕШЬ, Я ДАЖЕ НЕ ВЕРЮ НИ ВО ЧТО, НО ТЫ ТУТ РЕАЛЬНО ИСТОРГАЕШЬ КАКУЮ-ТО ХЕРНЮ!!!</style>
+<style\=ENAMean>YOU'RE A FLUKE!!!</style>=<style\=ENAMean>ТЫ, ТРЕМАТОДА!!!</style>
+Worry not! Trust me when I say sacrifices were made.=Не беспокойся! Поверь моим словам, жертва была пренесена.
+Here's your reward, ENA. You birthed it.=Вот твоя награда, ENA. Ты родила её.
+Unfortunately, it is not fully grown yet. I'm afraid you may need to gather the rest of body by sowing this head.=С несчастью, оно ещё не полностью выросло. Боюсь тебе нужно пожать остальное тело, посеяв голову.
+But those <style\=Quest>holes</style> shouldn't be a problem for you to find around here!=Но поиск этих <style\=Quest>дыр</style> не будет для тебя проблемой!
+Now go, ENA! Reach that <style\=Quest>giant orb in the sky</style> and be one with it!=Иди же, ENA! Достигни <style\=Quest>гигантской сферы в небесах</style> и будь едина с ней!
+Now, it's your turn to go to the Bathroom!=Сейчас твой черед идти в Туалет!
+Now, it's your turn to BEGIN LIFE ANEW!=Сейчас твой черед НАЧАТЬ НОВУЮ ЖИЗНЬ!
+Possibly.=Возможно.
+<style\=ENASales>Bless you for your business.</style>=<style\=ENASales>Благослови Вашу деятельность.</style>
+Excuse me, Ms. Boss lady! Are you looking for the Bathroom too?=Простите, Мисс Босс леди! Вы тоже ищите Туалет?
+<style\=ENASales>Oh, I am no longer the boss of myself.</style>=<style\=ENASales>Ох, я сама себе уже не босс.</style>
+<style\=ENASales>However, I can teach you to grow your own one in a few short steps!</style>=<style\=ENASales>Однако, я могу научить Вас, как вырастить своего за несколько простых шагов!</style>
+Hmmm, that is amongst the weirdest spells I've ever heard from a witch.=Хммм, это один из самых странных трюков, которые я слышала от ведьмы.
+<style\=ENASales>Do you by the chanced of chances know how to reach the GɞɢɣɥIɥE?</style>=<style\=ENASales>Вы случайно случайно не знаете, как добраться до ДɞжɣɥИɥи?</style>
+<style\=ENASales>Do you by the chanced of chances know how to reach the BATHROOM?</style>=<style\=ENASales>Вы случайно случайно не знаете, как добраться до ТУАЛЕТА?</style>
+<style\=Whisper>She SAID "BATHROOM".</style>=<style\=Whisper>Она СКАЗАЛА "ТУАЛЕТ".</style>
+<style\=Whisper>SSHH! Let me talk!</style>=<style\=Whisper>ШШШШ! Я говорю!</style>
+<style\=Whisper>She SAID "BATHROOM"...</style>=<style\=Whisper>Она СКАЗАЛА "ТУАЛЕТ"...</style>
+<style\=ENASales>Let's not make any compromises.</style>=<style\=ENASales>Давайте не будем делать компромисы.</style>
+<style\=ENASales>I must get rid of this smoke to reach the Boss, and it looks like this BATHROOM could be the key to our business's success.</style>=<style\=ENASales>Мне необходимо избавиться от этого дыма чтобы добраться до Босса, и похоже, что этот ТУАЛЕТ может быть ключом к успеху нашего дела.</style>
+Actuallyyy… one of us went looking for the Bathroom and promptly got lost.=Воообщеее-то… одна из нас ушла искать Туалет и сразу же потерялась.
+<style\=Whisper>THIS IS EXACTLY WHY WE SHOULD'VE GONE TO THE PURGE EVENT! We could've tried going to the BATHROOM from THERE!</style>=<style\=Whisper>ИМЕННО ПОЭТОМУ МЫ И ДОЛЖНЫ БЫЛИ ИДТИ НА ПРАЗДНИК ОЧИЩЕНИЯ! Мы могли бы попробовать пойти в ТУАЛЕТ ОТТУДА!</style>
+<style\=Whisper>Psst... "We should go home... I am allergic to persons..."</style>=<style\=Whisper>Псс... "Мы должны пойти домой... У меня аллергия на людей..."</style>
+HAAAA-HA! I GOT THAT REFERENCE!!!=ХАААА-ХА! Я ПОНЯЛА ОТСЫЛКУ!!!
+<style\=Whisper>SHH!!! ZIP IT!!!</style>=<style\=Whisper>ШШШ!!! ЗАСТЕГНУЛИ ВАРЕЖКИ!!!</style>
+[coughs]=[кашель]
+Say, you seem like an entity who loves overworking themselves. And we seem to share the same final destination... kind of.=Скажи-ка, ты похожа на сущность, что обожает себе перетруждать. И похоже у нас общий пункт назначения... типа.
+Would you be so kind to help us find our friend?=Не будешь ли ты так любезна помочь нам найти нашу подругу?
+I'll reward your hard work with something that could be useful in that... uhh... business of yours you like so much!=Я вознагражу твою тяжелую работу чем-то, что может быть полезно твоему... ааа... твоему делу, что ты так любишь!
+...=...
+Horrible choice! But precise.=Ужасный выбор! Но точный.
+Anyway... the last time we saw her, she said she'd ask for directions inside of <style\=Quest>Seal House</style>.=Как бы там ни было... когда мы в последний раз её видели, она сказала, что спросит направление в <style\=Quest>Тюленьем Доме</style>.
+Oh no! What if she's already bloodless inside there?=О нет! Что если она уже лежит там обескровленная?
+DUNCE!!! DON'T YOU REMEMBER? WE SAW HER HEADING OUT FROM THERE TO THE COMPLETE OPPOSITE DIRECTION!!!=ТУПИЦА!!! РАЗВЕ ЗАБЫЛА? МЫ ВИДЕЛИ, КАК ОНА НАПРАВЛЯЛАСЬ ОТТУДА ВООБЩЕ В ПРОТИВОПОЛОЖНУЮ СТОРОНУ!!!
+Ahh, settle down, ladies. Maybe someone gave her fake directions.=Ахх, спокойно, дамочки. Может кто-то указал ей неверную дорогу.
+<style\=Whisper>That's your cue, Ms. ENA!</style>=<style\=Whisper>Это вам намёк, Мисс ENA!</style>
+<style\=ENASales>Time to get to work!</style>=<style\=ENASales>Время приниматься за работу!</style>
+GREAT! NOW WE WON'T MAKE IT TO THE <style\=Hint>PURGE EVENT</style> AND IT'S ALL HER FAULT.=ОТЛИЧНО! ТЕПЕРЬ МЫ НЕ УСПЕЕМ НА <style\=Hint>ПРАЗНИК ОЧИЩЕНИЯ</style>, И ЭТО ВСЁ ЕЁ ВИНА.
+Could you hurry it, please? I miss my coffin.=Вы не могли бы поторопиться, пожалуйста? Я скучаю по своему гробу.
+I'd be surprised if she's still alive! 5 minutes alone with her would drive any entity to split into its component parts.=Буду удивлена, если она всё ещё жива! 5 минут с ней наедине довели бы любую сущность до разваливания на составляющие.
+...=...
+I'm sorryyy. I got carried away and tripped hard!=Простииииитее. Я отвлеклась и очень сильно споткнулась!
+Then WHY are you STILL ALIVE?! I was hoping to sing at your funeral.=Тогда ПОЧЕМУ ты ВСЁ ЕЩЁ ЖИВА?! Я надеялась спеть на твоих похоронах.
+IT'S NOT TOO LATE! I'LL KILL BOTH YOU NOISY BIRDS WITH ONE DAMN STONE!!!=ЕЩЁ НЕ ПОЗДНО! Я ПРИСТРЕЛЮ ВАС ОБОИХ, ШУМНЫХ ЗАЙЦЕВ, ОДНИМ ЧЕРТОВЫМ ВЫСТРЕЛОМ!!!
+[laughs]=[смех]
+Okay! It's settled—we'll visit the Purge Event on a later date. For now, let's just head home.=Ладно! решено—мы посетим Праздник Очищения в следующий раз. А сейчас просто пошли домой.
+<style\=ENAMean>YOU FOOL. SPONSOR MY DEMONS! FEED ME THE CAAAAAAAASH!!!</style>=<style\=ENAMean>ТЫ, ИДИОТКА. ПОДДЕРЖИ МОИХ ДЕМОНОВ! ВСКОРМИ МЕНЯ НАЛИИИИЧКОООЙ!!!</style>
+OOPSIES! HA HA!=УУПСИ! ХА ХА!
+Ah, but of course! Clumsy me! Let me see... what goodies do I've got tucked away in my pocket...... aha!=Ах, ну конечно же! Неловкая я! Поглядим... какие полезности спрятаны в моём кармашке...... ага!
+I found this… thingamajig in a very faraway land while on holiday. Actually, I think it was ENA who gave it to me.=Я нашла эту… штучку-дрючку в дальних землях на выходных. Вообще, думаю это ENA дала её мне.
+I thought it'd make for an interesting ingredient but, sadly, I don't know a thing about recipes. I'm no Shaman.=Я думала из этого выйдет интересный ингридиент, но, к сожалению, ничегошеньки не смыслю в рецептах. Я ж не Шаман.
+Oh heavens, it's almost time for the evening eulogies! We better get rolling, ladies.=О небеса, уже время для вечерней надгробной речи! Нам стоит выходить, леди.
+Goodbye, Ms. ENA!=Прощайте, Мисс ENA!
+<style\=ENASales>Bless you for your business.</style>=<style\=ENASales>Благослови Вашу деятельность.</style>
+...=...
+Ah! There you ladies are! Meet my new travel companion.=Ах! Вот вы где, леди! Познакомьтесь с моим новым попутчиком.
+Ohh! That explains how you made it back in one...=Охх! Это объясняет, почему ты вернулась целым...
+... big,=... большим,
+... big, FAT,=... большим, ЖИРНЫМ,
+... big, FAT, PIECE!=... большим, ЖИРНЫМ, КУСКОМ!
+Would you all be kind enough to spare some coins for Ms. ENA?=Не могли бы вы все быть хоть немного любезны дать немного монет для Мисс ENA?
+I think I misplaced my wallet somewhere along our adventure...=Думаю я забыла кошелёк где-то в процессе нашего приключения...
+Ah! Speak of the devil, perhaps this thingamajig I found could be of value to Miss... AY-NA, was it?=Ах! Помяни чёрта, возможно эта штучка-дрючка, что я нашла, может быть ценна для Мисс... AY-NA, так?
+Delightful! Off we go, then.=Превосходно! Тогда мы пошли.
+AND DON'T SPEND IT ALL IN ONE PLACE!=И НЕ ПОТРАТЬ ВСЁ В ОДНОМ МЕСТЕ!
+Take care, dearie!=Береги себя, дорогуша!
+Ohh, you aren't who I was expecting to see here.=Ахх, ты не та, кого я ожидала здесь встретить.
+Did that kind young man from the bridge let you in too? What a gentleman, I hope he is having a good day.=Тот добрый молодой человек на мосту тоже тебя пропустил? Какой джентльмен, надеюсь он хорошо проводит день.
+Anywhooo, I came here in search of the Bathroom. I hoped to clear my sins and have the truth revealed to me. But I couldn't reach it and now, frankly, I'm stuck here.=В оооообщем, я пришла сюда в поисках Туалета. Я надеялась очистить свои грехи и узнать истину. Но я не смогла до него добраться и теперь я, если честно, здесь застряла.
+Could you find a way to send my corpse over to my relatives? They must be waiting for me at the square near Seal House.=Ты не могла бы найти способ отправить мой труп к моим родным? Они должно быть ждут меня на площади около Тюленьего Дома.
+And be quick! I'll surely be dead before the day is over.=И поторопись! Я точно буду мертва до конца дня.
+Sweetie? I think I need to go to the powder room!=Дорогуша? Я думаю мне надо сходить в комнату для пудренья носика!
+I really should take a nap.=Мне стоит вздремнуть.
+Is the floor shaking, or are my elixirs acting up again?=Это пол трясётся, или мои колени опять барахлят?
+Oh, goodness, am I in a predicament!=Ох, боже, я в затруднительном положении!
+Are you there, deer?=Ты здесь, оленёнок?
+A crane. Useful for moving large objects when needed.=Кран. Полезен, когда требуется передвинуть крупный объект.
+Use the crane to move the witch to her relatives?=Использовать кран, чтобы переместить ведьму к её родным?
+Use=Использовать
+Leave=Уйти
+I am Boss!!!=Я Босс!!!
+<style\=ENASales>Hmm... that's infaccurate.</style>=<style\=ENASales>Хмм... это неточно.</style>
+Don't care. Not recognized. Go away.=Не волнует. Не распознал. Уходи.
+<style\=ENASales>Could you tell me everything you know about this GEɛɞɝɟ-?</style>=<style\=ENASales>Не могли бы Вы рассказать мне всё, что вы знаете об этом ДжИɛɞɝɟ-?</style>
+<style\=ENASales>Could you tell me everything you know about this Bathroom?</style>=<style\=ENASales>Не могли бы Вы рассказать мне всё, что вы знаете об этом Туалете?</style>
+No time for shit-chat.=Нет времени чушь пороть.
+Asshole left door open, now <style\=Quest>pets are gone</style>. My babies!=Ублюдок оставил дверь открытой, теперь <style\=Quest>питомцы пропали</style>. Мои детки!
+<style\=ENASales>Babies or pets?</style>=<style\=ENASales>Детки или питомцы?</style>
+Both, same. Two entities, same life, two soul mates.=Оба, то же. Две сущности, та же жизнь, две родственные души.
+Four of them there are. Find them.=Четверо их там. Найди их.
+I will give so many money. <style\=Quest>Many money.</style>=Я дам так много денег. <style\=Quest>Много денег.</style>
+...=...
+They like to <style\=Hint>stain carpets of my house with blood</style>.=Они любят <style\=Hint>пачкать ковры в моем доме кровью</style>.
+Do whatever you want with this information.=Делай что хочешь с этой информацией.
+<style\=ENASales>I'll be right with you.</style>=<style\=ENASales>Через секунду буду с Вами.</style>
+Those <style\=Quest>pets</style> you have there...=Эти <style\=Quest>питомцы</style> у тебя...
+—YOU! It looks like you've found my babies.=—ТЫ! Похоже, ты нашла моих деток.
+<style\=ENASales>Are you their father?</style>=<style\=ENASales>Вы их отец?</style>
+I'm not their parent, I'm their representative.=Я не их родитель, я их представитель.
+<style\=ENASales>O.</style>=<style\=ENASales>O.</style>
+<style\=ENASales>O.K.</style>=<style\=ENASales>O.K.</style>
+Take my allowance in exchange.=Возьми моё пособие взамен.
+Breakfast! Where did you go?!=Завтрак! Куда ты ушёл?!
+Lunch, come back!=Обед, вернись!
+Brunch! Bruuuuuuuuuuunch?!=Полдник! Пооооолднииииииик?!
+Elevenses!!!=Перекус!!!
+Bad service! You are here early!=Плохое обслуживание! Ты пришла раньше!
+Ohhh, thank G0D! I was starving. Now I can have good meal!=Оххх, Б0ЖЕ! Я умирал от голода. Теперь меня ждет отличная трапеза!
+<style\=ENASales>Bless you for your business.</style>=<style\=ENASales>Благослови Вашу деятельность.</style>
+Oh yessss, this is food of G0D.=О дааааа, это еда Б0ГОВ.
+“Bathroom”? No thanks, I'm full.=“Туалет”? Нет, спасибо, я наелся.
+He doesn't grasp my goal.=Он не может постичь мою цель.
+To toil beyond death itself.=Трудиться даже после самой смерти.
+I don't understand...=Я не понимаю...
+I need to get back to my duty.=Мне нужно вернуться к своим обязанностям.
+Can't stay here.=Не могу здесь оставаться.
+I'll be back to work soon.=Скоро вернусь за работу.
+I want to go back.=Я хочу вернуться.
+I'm so tired...=Я так устал...
+<style\=Secret>There is an urge to apply the mayonnaise.</style>=<style\=Secret>Появилось непреодалимое желание применить майонез.</style>
+Apply=Применить
+Leave=Уйти
+Block eyes with the mayonnaise=Блокировать глаза майонезом
+Leave=Уйти
+Applied the mayonnaise.=Майонез применён.
+Mmmf mmf mmmm'f mmmf mf mmmfmmf.=Мф мф ммммф ммммммф ммф мммф.
+Mf mf mmf mmmf.=Ммммммммф мммф ммммф ммммф мммммф.
+Mf mf mmmfmmfmmf...=М мм ммммммф...
+Mm'mf mmf mf.=Ммф ммммф ммммммммф м ммммф мммммммммммф.
+Mf mmmf mf mf mmmf.=Мф мммф ммммф мммммммммф.
+Mmm'f mmmf mmmf.=Ммф мммф мффффф
+M'mf fm mmmf mf mmmf mmmf.=Ммммф ммммммф мф мммммф.
+Mf mmmf mf mf mmmf.=М мммф ммммммммф.
+M'm fm mmmmf...=М ммф ммммф...
+Thank you.=Спасибо.
+I dont know what I would have done without this.=Не знаю, что бы я без этого делал.
+It's difficult to make this kind of equipment.=Такое оборудование тяжело изготовить.
+I've never seen something like this before.=Никогда такого не видел.
+It's relaxing.=Это расслабляет.
+Construction equipment.=Строительное оборудование.
+...=...
+<style\=Whisper>Oh no, not another one.</style>=<style\=Whisper>О нет, только не ещё одна.</style>
+Look, m'lady, you shall not pass! I own this bridge! I acquired it this morning!=Полушай, миледи, ты не пройдешь! Я владелец этого моста! Получил его сегодня утром!
+<style\=ENAMean>I'M THE ANTHOLOGY ANOMALY, STEP BACK JACKBUTT!!!</style>=<style\=ENAMean>Я ХРЕСТОМАТИЙНАЯ АНОМАЛИЯ, ШАГ НАЗАД, БОЛВАН!!!</style>
+HEY, HEY, HEY! LISTEN HERE, COURTESAN: I JUST HAD THE WORST DAY OF MY LIFE, OKAY?!!=ХЭЙ, ХЭЙ, ХЭЙ! СЛУШАЙ СЮДА, КУРТЕЗАНКА: СЕГОДНЯ ХУДШИЙ ДЕНЬ В МОЕЙ ЖИЗНИ, ОКЕЙ?!!
+I FOUGHT THREE TIMES—NO, FOUR! NO, NO, FIVE!! FIVE TIMES!!!=Я ДРАЛСЯ ТРИ РАЗА—НЕТ, ЧЕТЫРЕ! НЕТ, НЕТ, ПЯТЬ!! ПЯТЬ РАЗ!!!
+BROKE UP WITH MY GIRLFRIEND, KILLED MY BROTHER, and NOW... ARGHH!!!!!=РАССТАЛСЯ С ДЕВУШКОЙ, УБИЛ СВОЕГО БРАТА, и ТЕПЕРЬ... АГХХХ!!!!!
+...=...
+Ah. I apologize, m'lady.... things just haven't been the same for me since that screaming <style\=Quest>witch</style> crossed <shake>MY</shake> bridge!!!=Ах. Извините, миледи.... многое для меня поменялось с тех пор, как та орущая <style\=Quest>ведьма</style> прошла по <shake>МОЕМУ</shake> мосту!!!
+<style\=ENAMean>Hey pal! My sympathy is gonna cost you for every condolence.</style>=<style\=ENAMean>Хэй, приятель! Моя симпатия обойдется тебе в копеечку - беру за каждое утешение.</style>
+Wait, wait, wait. "Condolence"? M'lady thinks I enjoy this?=Постой, постой, постой. "Утешение"? Миледи думает я этим наслаждаюсь?
+Being a professional hoarder is no joke.=Быть профессиональным барахольщиком - это вам не шутки.
+Do you have any idea, <shake>ANY IDEA</shake> how stressful this job is?!=Ты вообще представляешь, <shake>ПРЕДСТАВЛЯЕШЬ</shake>, какая это стрессовая работа?!
+Like, have you ever stared so intensely at something for 10 minutes, and all of a sudden it becomes your favorite gift?!=К примеру, смотрела ли ты на что-то минут 10 настолько усердно, что внезапно оно становилось твоим самым желанным подарком?!
+It happened to me in the damn morgue... It was so shameful...=Это произошло со мной в чёртовом морге... Так постыдно...
+Ok ok, look.=Окей окей, смотри.
+...=...
+See that broken building... and see that gentleman in there?=Видишь то разрушенное здание... и того джентльмена на нём?
+This young man has been eyeing my properties the whole time!=Этот молодой человек всё время глазеет на мою собственность!
+He wants to steal my properties for sure, but that's besides the point. I want him to stop looking at me.=Он точно хочет всё украсть, но сейчас не об этом. Я хочу, чтобы он прекратил смотреть на меня.
+If you find a way to <style\=Quest>cover his eyes</style> or something I will—no no, <i>may</i> give you my gratitude. Whatever! I don't know!=Если найдёшь способ <style\=Quest>закрыть ему глаза</style> или типа того, ты получишь—не не, <i>можешь</i> получить мою благодарность. Не важно! Не знаю!
+...=...
+Perfect. Now quit ogling my properties and fly off.=Идеально. Теперь хватит строить глазки моим пожиткам и лети отсюда.
+Get out of my perspective!=Выйди из моей перспективы!
+Go pull yourself along on your mother's posterior.=Иди протяни себя по ягодицам вашей матери.
+Where do you think you are directing?!=Куда ты думаешь ты направлена?!
+You have made me very pissed! Very pissed indeed!=Ты меня очень раздражешь! Прямо очень раздражаешь!
+Get back to your kennel!=Возвращайся в свою конуру!
+Oh, you actually did it?=Оу, ты правда это сделала?
+Okay. Rad.=Окей. Плюс реп.
+What do you want now?!=Чего ты теперь хочешь?!
+W-what do you want, lady?!=Ч-чего ты хочешь, леди?!
+He's in an uninterruptible sleep. Don't bother him.=Он в непрерываемом сне. Не беспокойте его.
+Huh? Did you really think I was going to let you pass because you did a bad deed?! <shake>DON'T BE AN IDIOT-</shake>=Хах? Ты правда думала, что я пропущу тебя только потому, что ты сделала злое дело?! <shake>НЕ БУДЬ ГЛУПЦОМ-</shake>
+<shake>L-LOSE YOURSELF!! THIS IS MY BRIDGE-</shake>=<shake>П-ПОТЕРЯЙСЯ!! ЭТО МОЙ МОСТ-</shake>
+I was walking along and I found this spacious, durable, luxury bag.=Я проходил мимо и нашёл этот просторный, прочный, шикарный мешок.
+Just lying here!=Который просто тут лежал!
+What fortune! What bliss!=Что за удача! Что за нега!
+What kind hands could have orchestrated such a thing?=Какие добрые руки могли такое подстроить?
+And what a generous heart, to leave such a bag here for anyone to find.=И что за добрейшее сердце, оставить такой мешок, чтобы кто угодно смог его найти.
+Well, they have the thanks of Timothy Rundle!=Что ж, у них есть благодарность от Тимоти Рандла!
+Now, what will I do with all this space?=Итак, что мне делать со всем этим свободным местом?
+I can carry flanges, pencils, mead...=Я могу носить фланцы, карандаши, медовуху...
+Pivots, crampons, artillery...=Шарниры, скобы, артилерию...
+Cutlets, targets, plimsols...=Отбивные, цели, плимсолы...
+Jodhpurs, printers, damsons...=Джодхпуры, принтеры, чернослив...
+Fish, leeks, braid...=Рыбу, порей, оплётку...
+Pots, knurlers, lathes...=Горшки, накатники, пену...
+Spigots, tripods, pickles...=Втулки, треноги, огурцы...
+Razorbacks, periwinkles, argon...=Бритвенники, барвинки, аргон...
+When this carrot shattered the air with his scream I wanted him to accept his fate instantly.=Когда крики этой моркови потрясли воздух, я захотел, чтобы он тут же принял свою судьбу.
+This is the problem with invasive weasels.=Это проблема с инвазивными хорьками.
+Now his junk is polluting the environment.=Теперь его хлам загрязняет окружающую среду.
+So loud.=Так шумно.
+Use this device?=Использовать устройство?
+Yes=Да
+No=Нет
+The filers will be angry.=Регистры будут недовольны.
+All operators must be properly insured.=Все операторы должны быть как следует застрахованы.
+A compression certification is needed to operate it.=Для оперирования необходим сертификат сжатия.
+It's jammed.=Его заклинило.
+<style\=ENASales>May I offer you a divestment opportunity?</style>=<style\=ENASales>Разрешите предложить Вам возможность отчуждения?</style>
+Divestment?..........=Отчуждения?..........
+Are you making fun of my unemployment lifes!!!!?=Ты издеваешься на моей безработной жизью!!!!?
+I don care! I DON CARE!!! >:OO GO AWAY!!!=Плевать! ПЛЕВАТЬ!!! >:OO УБИРАЙСЯ!!!
+WHAT!! YOU ARE ENA?!! YOU HAVE A JOB?!=ЧТО!! ТЫ ENA?!! У ТЕБЯ ЕСТЬ РАБОТА?!
+<style\=ENASales>It's more of a lifestyle. That's my destiny. What more could I do?</style>=<style\=ENASales>Это больше как стиль жизни. Это моё предназначение. Что ещё я могу поделать?</style>
+<style\=ENASales>G0D knows the rest.</style>=<style\=ENASales>Б0ГУ одному известно.</style>
+POO!!! >:(=ПУУ!!! >:(
+>:( I am nice to you and this is the thankz I get?! umwbmhjnbgrzmmafbczlcmnkvn=>:( Я к тебе мила, и это фсё, что я получаю в ответ?! умвбьхжнбрзммабцзлцмнквн
+Rude entities like you get punished for the sins of others.=Такие грубые сущности как ты будут наказаны за грехи других.
+MWAHAHA!!! DUMMY, im joking!!!=МВАХАХА!!! ГЛУПЫХА, я шучу!!!
+MWAA-HA!!!, fell for it, didntchuU?! ^-^=МВАА-ХА!!!, купилась, нитаклииИ?! ^-^
+<style\=ENASales>Miss, could you keep it down, please? The pizza guy is right here.</style>=<style\=ENASales>Мисс, не могли бы Вы быть потише, пожалуйста? Доставщик пиццы стоит прямо здесь.</style>
+U know, im pretty good @ organizing words!!=Знаишь, @ я не плоха в организации слов!!
+I should be the CEO of organizing events or sumthing... O . O=Я должна быть гендиром по организации мероприятий или типтого... O . O
+Blaaaahhhdfbjfskdbf tell this place to drink urmanium!!  >_ <'' I hate bathrooms blaaaaahhhdfjbsdfksd.=Бвлааахххдфбжфскдбф скажи этому месту попить урмания!!  >_ <'' Ненавижу туалеты бвлаааахххдфжбсдфксд.
+I should send my worky resuemay to the boss nao. Im supa good with organizing bosses!! , !!!=Мне типерь надо отправить своё работовое ризюме к боссу. Я атлишна в организации боссов!! , !!!
+WOAHZ, I just saw you???!!!! O_ o ??=ВОАА, я только что тебя видела???!!!! O_ o ??
+START COPYING ME!! START COPYING ME!!!!=НАЧНИ МЕНЯ КОПИРОВАТЬ!! НАЧНИ МЕНЯ КОПИРОВАТЬ!!!!
+YOU REALLY LOVE TALKING TO ME!!!1!!!!!!!!!!!!!!! STOP!!=ТЫ ОЧЕНЬ ЛЮБИШЬ СО МНОЙ БОЛТАТЬ!!!1!!!!!!!!!!!!!!! ХВАТИТ!!
+Nooope, Im not talking anymoar!!! You can watch me walk around if you wanna!=Нееееее, ничего больше нискажу!!! Можешь посмотреть как я гуляю, как хош!
+Oh heyy… ARE YOU FOLLOWING ME OR SOMETHING?! Well, I don't blame you.=Оу хеей… ТЫ МЕНЯ ТИПА ПРЕСЛЕДУЕШЬ?! Что ж, не виню тебя.
+OK, OK: WHAT'S THE BIG DEAL ABOUT BATHROOMS ANYWAYS?!1!=OK, OK: КАКАЯ ВООБЩЕ ШУМИХА МОЖЕТ БЫТЬ ВОКРУГ ТУАЛЕТОВ?!1!
+Is everyone crazy except me?=Здесь все кроме меня сумасшедшие?
+WOOOoOOOOOoOOooO!!! TELL THE DJ TO CRANK IT UP!!!!!! ( - u - )/=УОООоОООООоООооО!!! СКАЖИ ДИДЖЕЮ ПОДКРУТИТЬ ПОГРОМЧЕ!!!!!! ( - u - )/
+YuuUUP! This is for surez a maze.=АааААга! Это рил лабиринт.
+im SUPA good with solving mazes!! jkfbsdkjbfs=я АТЛИШНА в разгадывании лабиринтов!! жкфбсдкжбфс
+OOooOOOo!! This place wud look AMAZING with a splash of sulfuric acid!!! :0!0=ООооОООо!! Это место б АТЛИШНА выглядело с парой всплесков серной кислоты!!! :0!0
+If ya feel lost, remember... don’t ask me!!1 ! I HATE pumpkin eater-cheaterz! -_-'=Если потеряешься, то запомни... меня не спрашивай!!1 ! НЕНАВИЖУ тыквовых едаков-читаков! -_-'
+GUESS WHATT!! ! THIS CHICKEN BUTT GOTTA NEW JOB, BABEH!! ! :d=УГАДАААЙ!! ! ЭТА ЖОПКА СИДИТ НА НОВОЙ РАБОТЕ, ДЕТКААА!! ! :d
+I met this sweatY girl and she was absolutely FLOORED by my most ~* AWESOMEST *~ of work abilities !! 10 seconds into the interview and she HIRED ME=Я встретила потнуЮ девушку которую я тотально ПОРАЗИЛА своими наиболее ~* НАИКРУТЕЙШИМИ *~ рабочими способностями !! спустя 10 секунд интервью она НАНЯЛА МЕНЯ
+All I gotta do is: “go somewhere else” and “be quiet”. EASY PEASY!! >:33=Всё что мне нужно делать, это: “иди отсюда подальше” и “не шуми”. ЛЕГКОТНЯ!! >:33
+*gasp* WHAT DID YOU SAY?!!!!! YOU WANT THIS JOB TOO?!?! ???=*вздох* ЧТО ТЫ СКАЗАЛА?!!!!! ТЫ ТОЖЕ ХОЧЕШЬ ЭТУ РАБОТУ?!?! ???
+NOOOES, IT'S ALL MINE!!! Bye bye, CHEW MOLD!!!=НЕЕЕЕААА, ОНА ВСЯ МОЯ!!! Пока-пока, ПЛЕСЕНИ ПОЖУЙ!!!
+...=...
+I saw it! I saw everything.=Я это видел! Я всё видел.
+Today, a man has been forced to desist from his labors.=Сегодня, человек был принуждён воздержаться от своего труда.
+<style\=ENASales>Wha...! Wh-what a barb—! Who could dare?!</style>=<style\=ENASales>Чт...! Ч-что за ди—! Кто же посмел?!</style>
+<style\=ENAMean>OH NO, WHAT A BARBARITY. WHO COULD DARE.</style>=<style\=ENAMean>О НЕТ, ЧТО ЗА ДИКОСТЬ. КТО ЖЕ ПОСМЕЛ.</style>
+You heard me, JENA: I have seen the <style\=Hint>heads of this entity being kidnapped</style> not microseconds ago.=Ты слышала меня, JENA: я видел, как <style\=Hint>головы этой сущности были украдены</style> не более микросекунды назад.
+You must find and free his head from this criminal misdemeanour. He should be back at work!=Ты должна найти и освободить его голову от этого уголовного правонарушения. Он должен вернуться за работу!
+<style\=ENASales>Of course! Delighted to help a business fellow.</style>=<style\=ENASales>Конечно! С радостью помогу деловому товарищу.</style>
+...=...
+I bet they've harboured his heads somewhere <style\=Hint>deep down</style>, only they can reach.=Готов поспорить они унесли его головы куда-то <style\=Hint>глубоко под землю</style>, куда только они могут добраться.
+Maybe you can go investigate that strange gutsy-looking mazey.=Может ты можешь исследовать этот странный дерзко выглядящий лабиринт.
+<style\=ENASales>Do you know any more information about this prospect?</style>=<style\=ENASales>Имеете ли Вы ещё информацию об этом потенциальном клиенте?</style>
+Those creatures in the sky are very sneaky. They will likely hide it where no law-abiding citizen could ever find it.=Те существа в небе очень скрытны. Скорее всего они прячут всё там, где ни один законопослушный гражданин никогда не найдёт.
+...=...
+Miss!!!!!!!!!!=Мисс!!!!!!!!!!
+Miss! Miss!=Мисс! Мисс!
+Miss! Can you smell it? A terrible deed was committed here!!!=Мисс! Чувствуете запах? Здесь было совершено ужасное деяние!!!
+Over here, miss!=Сюда, мисс!
+...=...
+They can't kidnap our free will to go to the Bathroom.=Они не могут украсть нашу свободу воли ходить в Туалет.
+The Purge Event may not be legal, but my desires to go there are.=Праздник Очищения может и не легален, но моё желание пойти туда - да.
+...=...
+I saw it! I saw everything!=Я это видел! Я всё видел!
+Some reckless hooligan crushed this man's fare ride!=Какой-то безбашенный хулиган раздавил платные перевозки этого человека!
+The Purge Event is now totally off limits!=Праздник Очищения теперь полностью запрещён!
+...=...
+As if it wasn't bad enough! His freedom first… and now his plektamobile.=Этого ещё не хватало! Сначала его свободу… теперь его плектамобиль.
+The state of public transit in this town is a nightmare!=Общественный транспорт в этом городе в кошмарном состоянии!
+...=...
+You were too late, JENA… Some reckless thug has killed a poor animal all over this car.=Ты опоздала, JENA… Какой-то безбашенный бандит размазал бедное животное по всей машине.
+An expanded budget may be required to fix this.=Возможно, для починки понадобится увеличенный бюджет.
+...=...
+Was I meant to take this ride instead?=Или эта поездка предназначалась мне?
+Where is this taxi going to bring me?=Куда это такси доставит меня?
+Could it be that, in the end, all roads lead to the Bathroom?=Может ли быть, что в конце концов, все дороги ведут в Туалет?
+{0}={0}
+<style\=ENAMean>WHAT DO YOU SUCKERS DO FOR A LIVING?</style>=<style\=ENAMean>И ЧЕМ ВЫ, СОСУНКИ, ЗАРАБАТЫВАЕТЕ НА ЖИЗНЬ?</style>
+<style\=ENASales>What kind of work are you inmates offering to the public?</style>=<style\=ENASales>Что за работу Вы, сокамерники, предлагаете обществу?</style>
+{0}={0}
+{0}={0}
+Wanna take a ride?=Хотите прокатиться?
+Yes=Да
+No=Нет
+{0}={0}
+{0}={0}
+Request a ride back?=Попросить вернуться?
+Yes=Да
+No=Нет
+Very lucrative. It can't be used without owner's permission.=Очень рентабельный. Нельзя использовать без разрешения владельца.
+Permission must be obtained.=Необходимо получить разрешение.
+Placeholder.=Заглушка.
+All my "friends" criticized me for coming here.=Все мои "друзья" меня осуждали за то, что я пришёл сюда.
+I laugh at them because they are all the same.=Я посмеялся над ними, потому что все они одинаковы.
+It's warm to the touch.=Теплое на ощупь.
+Nobody's home.=Никого нет дома.
+Nobody's gnome.=Никого нет гнома.
+Stuck in the soft ground.=Застряли в мягком грунте.
+Shouldn't disturb them.=Не стоит их беспокоить.
+To whom does this belong?=Чьё это?
+Just out of reach.=Немного не дотянуться.
+<style\=Secret>Your urge to go to the Bathroom has increased by two.</style>=<style\=Secret>Твоё желание пойти в Туалет увеличилось вдвое.</style>
+...=...
+This cannot be opened now.=Теперь это нельзя открыть.
+I hope to make it to the Bathroom this time...=Надеюсь в этот раз я доберусь до Туалета...
+I don't want to have to wait until my next life...=Не хочу ждать до следующей жизни...
+<style\=ENAMean>...</style>=<style\=ENAMean>...</style>
+Can't this guy hurry it up?!=Он не может поторопиться?!
+<style\=ENAMean>...</style>=<style\=ENAMean>...</style>
+I was so excited that half of my body imploded!=Мне так нетерпелось, что пол моего тела взорвалось!
+That's what I get for being on my feets all day. Take my spot meanwhile, EMA.=Вот что я получаю за весь день на ногах. Как-нибудь побудь на моём месте, EMA.
+<style\=ENAMean>...</style>=<style\=ENAMean>...</style>
+My hubby's going to be soooo jealous when I finally reach the Bathroom!=Мой муженёк будет тааааак завидовать, когда я наконец доберусь до Туалета!
+<style\=ENAMean>.........</style>=<style\=ENAMean>.........</style>
+ANA? You shouldn't be here if you are not mentally strong.=ANA? Тебе не стоит здесь находиться, если ты не силён ментально.
+When are you going to learn, old lady?=Когда же ты усвоишь урок, старуха?
+Pay the toll.=Заплатить пошлину.
+Hmm? ..... That blood.....=Хмм? ..... Эта кровь.....
+Ah , I see. It will cost you an arm or a leg to pass.=Ах , понятно. Проход будет стоить тебе руки или ноги.
+Pay with body=Заплатить телом
+Leave=Уйти
+Not surprised.=Не удивлён.
+<style\=ENAMean>......</style>=<style\=ENAMean>......</style>
+You don't belong here anymore. Sail away.=Тебе больше здесь не место. Плыви отсюда.
+You may enter.=Можешь войти.
+No refunds.=Без возвратов.
+What are you waiting for?=Чего ты ждёшь?
+<style\=ENAMean>......</style>=<style\=ENAMean>......</style>
+<style\=ENAMean>I am cutting in line.</style>=<style\=ENAMean>Я лезу без очереди.</style>
+<style\=ENAMean>...Something... wrong.</style>=<style\=ENAMean>...Что-то... не правильно.</style>
+<style\=ENAMean>Something out of place.</style>=<style\=ENAMean>Что-то не так.</style>
+<style\=ENAMean>Can't make anyone listen.</style>=<style\=ENAMean>Меня никто не слушает.</style>
+<style\=ENAMean>Have to get out of here.</style>=<style\=ENAMean>Нужно выбираться отсюда.</style>
+<style\=ENASales>Let's not cut in line.</style>=<style\=ENASales>Давайте не будем влезать в очередь.</style>
+<style\=ENASales>This creature has valuable complaints to make.</style>=<style\=ENASales>У этого существа есть ценные жалобы.</style>
+<style\=ENASales>The gentleman within listens to the complaint.</style>=<style\=ENASales>Внутренний джентльмен слушает жалобы.</style>
+<style\=ENASales>Precious complaints, the lifeblood of good customer service.</style>=<style\=ENASales>Драгоценные жалобы, живительная сила хорошего клиентсткого обслуживания.</style>
+<style\=ENASales>How may we help you, how may we help you.</style>=<style\=ENASales>Как мы можем Вам помочь, как мы можем Вам помочь.</style>
+...=...
+Ohohoh YEAAH!! There will always be haters hating on you, mate.=Охохох ДААА!! Всегда будут ненавидящие тебя ненавистники, приятель.
+You can't live your life trying to make everybody happy!! yyeeeaAAAAH!!=Нельзя прожить жизнь в попытках всех осчастливить!! йииихаААААА!!
+<style\=ENAMean>L-listen to me!</style>=<style\=ENAMean>П-послушайте меня!</style>
+<style\=ENAMean>Regrettably, I'm v-very hard-working and sh-shouldn't be in a place full of morons having FUN.</style>=<style\=ENAMean>К сожалению, я о-очень трудолюбива и не д-должна быть вместе с ВЕСЕЛЯЩИМИСЯ идиотами.</style>
+Woah woah… you mean to tell me you aren't here to be eaten?!=Воу воу… ты хочешь сказать, что ты здесь не для того, чтобы тебя съели?!
+You must be.... a FIRST-TIMER?!=Ты похоже.... НОВИЧОК?!
+HAAAA, WAHOOOOO!! More reason to party even harder, mate!!=ХАААА, ЙАХУУУУУ!! Больше причин зажигать ещё жёстче, приятель!!
+Just stay chill and be sure to <style\=Hint>follow that <wave a\=0.25>whistle...</wave></style>=Просто будь спокойна и <style\=Hint>следуй за <wave a\=0.25>свистом...</wave></style>
+<style\=Hint>Follow that <wave a\=0.25>whistle</wave>!</style>=<style\=Hint>Следуй за <wave a\=0.25>свистом</wave>!</style>
+Your life depends on it!!=От этого зависит твоя жизнь!!
+HERE IT COMEEESSS!!! YeeaaAAAAAAAAAAH!!=ВОТ И ОНОООО!!! ЙииихААААААААААА!!
+Forget about that Bathroom shiz, man. Everyone wants to go in there like CRAZY.=Забудь об этой Туалетной шизе, чел. Все БЕЗУМНО хотят туда попасть.
+Consider: would the sane put only one Bathroom in a place full of party poopers?=Заметь: адекватный человек сделал бы только один Туалет в месте, полном засирателей вечеринок?
+An entry for Very Important Entities.=Вход для Очень Важных Сущностей.
+<style\=Whisper>That <wave a\=0.25>whistle</wave> sounds...</style>=<style\=Whisper>Этот <wave a\=0.25>свист</wave> звучит...</style>
+<style\=Whisper>hungry.</style>=<style\=Whisper>голодным.</style>
+...=...
+I AM THE BOSS!!=Я БОСС!!
+<style\=ENAMean>H-how can I leave this stupid event?</style>=<style\=ENAMean>К-как мне покинуть эту тупую вечеринку?</style>
+<style\=ENAMean>M-my lame schedule is full.</style>=<style\=ENAMean>М-моё расписание скукоты заполнено.</style>
+<style\=ENAMean>I c-can't afford another minute of joy!</style>=<style\=ENAMean>Я н-не могу позволить себе ещё одну минуту радости!</style>
+No idea.=Без понятия.
+You're better off focusing on other things in life:=Лучше бы тебе сфокусироваться на других важных вещах в жизни:
+partying, <style\=hint>following the <wave a\=0.25>whistle</wave>,</style> getting ready to be eaten.=тусить, <style\=hint>следовать за <wave a\=0.25>свистом</wave>,</style> готовиться быть съеденным.
+I mean—are you really going to miss your one chance to visit the Bathroom, madame?!!=Хочу сказать—ты провда собираешься упустить свой единственный шанс посетить Туалет, мадам?!!
+<style\=Hint><wave a\=0.5>FOLLOW THE WHISTLE</wave></style> AND LET YOURSELF GO.=<style\=Hint><wave a\=0.5>СЛЕДУЙ ЗА СВИСТОМ</wave></style> И ОТПУСТИ СЕБЯ.
+Look, lady, if I can eat you, I will.=Слушай, леди, если я могу тебя съесть, я съем.
+*dog*=*пёс*
+...=...
+I am the B-O-S-S!=Я Б-О-С-С!
+Naaah, I W-I-S-H. I wish! Hahaha!=Нееее, Ж-А-Л-Ь не я. Жаль не я! Хахаха!
+<style\=ENAMean>I need to get back to my deplorable j-job...</style>=<style\=ENAMean>Мне надо вернуться к своей прискорбной р-работе...</style>
+What do we H-A-V-E H-E-R-E!! L-O-O-K at this nobody who isn't having a G-O-O-D T-I-M-E!=К-О-Г-О я В-И-Ж-У!! Посмотрите на Т-О-Г-О никого, кому веселья Я-В-Н-О М-А-Л-О!
+Uhhhh…=Эээмм…
+What a W-A-S-TE... w-aaa-s-ttt... aw shoot.=Что за Г-Р-У-СТЬ... г-р-ууу-сссс... ох чёрт.
+Uhhh... what a sad... V-I-E-W! Yes!=Эммм... что за грустная... А-У-Р-А! Да!
+<style\=ENAMean>I am f-feeling sick in this p-place.</style>=<style\=ENAMean>Меня т-тошнит в этом м-месте.</style>
+Uuuhhh...=Эээээмм...
+... B-A-C-K! There's no going BACK, y'know? The O-N-L-Y D-U-T-Y here is to find the one that you are going to feed.=... Б-Е-Г-И! БЕЖАТЬ некуда, понимаешь? О-Д-Н-А Ц-Е-Л-Ь тут - найти того, кого ты накормишь.
+You K-N-O-W? <style\=Hint>Following the <wave a\=0.25>whistle</wave></style> until we end up in <style\=Hint>someone else's O-R-A-L cavity.</style> Eewww...=З-Н-А-Й. <style\=Hint>Следуй за <wave a\=0.25>свистом</wave></style>, пока мы не попадём <style\=Hint>в чьё-то Л-О-Н-О.</style> Ииууу...
+Bestest L-U-C-K reaching the Bathroom, E-N-Y-A. Kyaahahaha!!!=Наилучшей удачи Т-Е-Б-Е в дороге к Туалету, E-N-Y-A. Кьяахахаха!!!
+What's on the M-E-N-U tonight?! Oh, I'm really hoping it's me!=что сегодня в М-Е-Н-Ю?! Оу, очень надеюсь что я!
+Sorry, it looks like I wasn't actually scheduled to curl up and die until after dinner time.=Прости, похоже на самом деле я не записан свернуться калачиком и умереть до конца ужина.
+Lo-fi beats to strain your eyes to.=Лоу-фай биты для напряжения глаз.
+You look hungry, lady.=Выглядишь голодной, леди.
+Who would call this a feast? Old bodies wrapped in a sea of formality.=Кто назовёт это пиром? Старые тела, обёрнутые в море формальностей.
+Hungry hungry hungry.=Голод голод голод.
+I'll be better at this than anyone else!=Я буду справляться лучше, чем кто-либо ещё!
+I'm getting sick from how scared I am.=Мне тошно от того, насколько мне страшно.
+I was told there would be a good meal here... what's happening?=Мне сказали, здесь будет хорошая еда... что происходит?
+Open your mouth! Open your eyes! Open wide! It's going to start!=Открой свой рот! Открой свои глаза! Шире! Сейчас начнётся!
+When you've looked outside these bright bubbles for long enough,=Если достаточно долго смотреть на эти яркие пузырьки снаружи,
+it stops mattering what you eat as long as it's something.=перестаёт беспокоить что ты ешь, пока это хотя бы что-нибудь.
+We get to try again if we lose, right...?=Если мы проиграем, то мы сможем попробовать ещё раз, ведь так...?
+C'mon, move that booty until it disappears from existence!=Давай, тряси задом, пока он не перестанет существовать!
+I AM THE BOSS!=Я БОСС!
+Have you seen the entrance for the Extinction Party?=Ты видела вход на Вечеринку на Вымирание?
+At the end of the day, it's eat or be eating.=В конце концов, это съешь или будь съедена.
+What's with that long face? You don't like slaughter-house parties?=Чего такая унылая? Тебе не нравятся скотобойные вечеринки?
+Will you be there to eat me if no one else does?=Ты меня съешь, если никто не захочет?
+This is the part of the game where you run to your death.=Это тот самый момент в игре, где ты бежишь навстречу своей смерти.
+I was told I'd meet my soulmate today! Just have to <style\=Hint>follow this weird sound</style> when the dancing starts.=Мне сказали, что сегодня я встречу свою родственную душу! Нужно всего лишь <style\=Hint>следовать за этим странным звуком</style>, когда начнутся танцы.
+Too bad that I don't have ears.=Жаль, что у меня нет ушей.
+I have a reversed hungriness.=У меня обратное голодание.
+I hope my <style\=Hint>eyes don't pop out</style> from all <style\=Hint>that whistling</style>!=Надеюсь у меня <style\=Hint>не выпадут глаза</style> от всего <style\=Hint>этого свиста</style>!
+Greena?? Don't get between me and my <style\=Hint>dancing eyes</style> when it starts!=Зелena?? Не стой у меня на пути к моим <style\=Hint>танцующим глазам</style>, когда это начнётся!
+I can't wait to <style\=Hint>hear that <wave a\=0.25>whistle</wave>!</style> It makes my <style\=Hint>eyes go crazy</style>!=Не могу дождаться <style\=Hint>чтобы услышать этот <wave a\=0.25>свист</wave>!</style> У меня из-за него <style\=Hint>глаза с ума сходят</style>!
+When the event starts, eveything dances! <style\=Hint>Even the curtains</style>!=Когда праздник начинается, танцует всё! <style\=Hint>Даже занавески</style>!
+Losers always ruin the party.=Лузеры всегда срывают вечеринку.
+They go straight for the <style\=Hint>dancing, singing curtain</style> of shame!=Они сразу начинают <style\=Hint>танцевать, поющие занавески</style> стыдобы!
+Miss? Are you here on purpose? Or are you going to <style\=Hint>bounce like an eyeball</style>?=Мисс? Вы здесь не случайно? Или вы собираетесь <style\=Hint>попрыгать как глаз</style>?
+<style\=ENAMean>...?</style>=<style\=ENAMean>...?</style>
+Hey, you're bringing the party down.=Хей, ты губишь вечеринку.
+<style\=ENAMean>......?</style>=<style\=ENAMean>......?</style>
+Come on; give me a smile.=Ну же; улыбнись.
+You're bringing us down.=Ты губишь нас.
+<style\=ENADizzy><wiggle a\=0.75 f\=0.5>Ahhhhh...</wiggle></style>=<style\=ENADizzy><wiggle a\=0.75 f\=0.5>Оххххх...</wiggle></style>
+<style\=ENADizzy><wiggle a\=0.75 f\=0.5>Pardon me, my head hurts so much...</wiggle></style>=<style\=ENADizzy><wiggle a\=0.75 f\=0.5>Прошу меня простить, у меня так болит голова...</wiggle></style>
+<style\=ENADizzy><wiggle a\=0.75 f\=0.5>Do you have any coffee?</wiggle></style>=<style\=ENADizzy><wiggle a\=0.75 f\=0.5>У вас есть какое-нибудь кофе?</wiggle></style>
+<style\=ENADizzy><wiggle a\=0.75 f\=0.5>Any milk? Any bathroom?</wiggle></style>=<style\=ENADizzy><wiggle a\=0.75 f\=0.5>Какое-нибудь молоко? Какой-нибудь туалет?</wiggle></style>
+<style\=ENADizzy><wiggle a\=0.75 f\=0.5>A giant bathroom...</wiggle></style>=<style\=ENADizzy><wiggle a\=0.75 f\=0.5>Гигантский туалет...</wiggle></style>
+<style\=ENADizzy><wiggle a\=0.75 f\=0.5>ughh...</wiggle></style>=<style\=ENADizzy><wiggle a\=0.75 f\=0.5>уххх...</wiggle></style>
+<style\=ENADizzy><wiggle a\=0.75 f\=0.5>It's not enough for this many bodies...</wiggle></style>=<style\=ENADizzy><wiggle a\=0.75 f\=0.5>Этого недостаточно для стольких тел...</wiggle></style>
+<style\=ENADizzy><wiggle a\=0.75 f\=0.5>I hate myself...</wiggle></style>=<style\=ENADizzy><wiggle a\=0.75 f\=0.5>Ненавижу себя...</wiggle></style>
+...=...
+Nonkey Jong Happy For Any Company=Нонки Джонг Счастлив Любой Компании
+Even ENA=Даже Если Это ENA
+Nonkey Jong Heard There Was A Secret Here=Нонки Джонг Слышал Что Здесь Есть Секрет
+People Sometime Leave Flowers On Grave=Люди Иногда Оставляют Цветы На Могиле
+Nonkey Jong Found Cool Bones=Нонки Джонг Нашёл Классные Кости
+Nonkey Jong Have Hint About Secrets=Нонки Джонг Имеет Подсказку По Поводу Секретов
+Nonkey Jong Heard Museum Around Somewhere=Нонки Джонг Слышал Здесь Недалеко Музей
+Maybe If Nonkey Jong Was Clever, Nonkey Jong Could Invent Stairs=Может Если Нонки Джонг Был Умным, Нонки Джонг Мог Бы Изобрести Лестницы
+Nonkey Jong Love Doors=Нонки Джонг Любит Двери
+Nonkey Jong Saw Olympics Once=Нонки Джонг Однажды Видел Олимпийские Игры
+Nonkey Jong Star Athlete=Нонки Джонг Звездный Атлет
+Banana Is Sign Of Moral Turpitude=Банан Это Символ Моральной Развращённости
+Nonkey Jong Favourite Food Is Cigarette=Нонки Джонга Любимая Еда Это Сигарета
+Nonkey Jong Star Athlete=Нонки Джонг Звездный Атлет
+Nonkey Jong Heard There Was Great Artist In Museum=Нонки Джонг Слышал В Музее Был Великий Художник
+Nonkey Jong Saving Up For Playground Ticket=Нонки Джонг Копит На Билет На Детскую Площадку
+Nonkey Jong Favourite Drink, Joca-Jola=Нонки Джонга Любимый Напиток, Джока-Джола
+Nonkey Jong Star Athlete=Нонки Джонг Звездный Атлет
+Nonkey Jong Went To Seaside Once=Нонки Джонг Однажды Ходил На Побережье
+Nonkey Jong Loves Corn=Нонки Джонг Любит Кукурузу
+Nonkey Jong Want to Meet Famous Person Some Day=Нонки Джонг Хочет Когда-нибудь Встретить Знаменитость
+Nonkey Jong Has Never Seen Own Face=Нонки Джонг Никогда Не Видел Своего Лица
+Nonkey Jong Star Short-Order Cook=Нонки Джонг Звездный Повар Быстрого Приготовления
+Nonkey Jong Trade Old Games For Cool Guitar At Flea Market=Нонки Джонг Обменял Старые Игры На Крутую Гитару На Барахолке
+Nonkey Jong Wish He Had Fingers=Нонки Джонг Хотел Бы Иметь Пальцы
+Nonkey Jong, Not Actually Original Nonkey Jong=Нонки Джонг, На Самом Деле Не Оригинальный Нонки Джонг
+Nonkey Jong Visit Art Gallery Once=Нонки Джонг Однажды Посетил Выставку
+Nonkey Jong Star Farmer=Нонки Джонг Звездный Фермер
+Nonkey Jong Not Monkey; Common Misconception=Нонки Джонг Не Обезьяна; Частое Заблуждение
+Sometimes Nonkey Jong Walks By The River And Thinks=Иногда Нонки Джонг Гуляет У Реки И Думает
+Nonkey Jong Like Bees=Нонки Джонг Любит Пчёл
+Nonkey Jong Think Maybe Nonkey Jong Go Back To School=Нонки Джонг Думает Может Нонки Джонгу Вернуться В Школу
+Nonkey Jong Think About Cheese Some Times=Нонки Джонг Иногда Думает О Сыре
+Nonkey Jong Still Thinking=Нонки Джонг Всё Ещё Думает
+Nonkey Jong Wish Upon A Star=Нонки Джонг Загадал Желание Звезде
+Nonkey Jong Went To Support Group Once=Нонки Джонг Однажды Ходил К Группе Поддержки
+When Shopping Containers, Round Vs Square?=Если Магазинные Корзины, Круглые Или Квадратные?
+Nonkey Jong Asking You; Really Not Sure=Нонки Джонг Справшивает Тебя; Правда Не Уверен
+Nonkey Jong Look For Breath Mints=Нонки Джонг Ищет Мятные Конфеты
+Mmmm Mmmmm Mmm Mmmmmmmm=Мммм Ммммм Ммм Мммммммм
+Why Compare Apples To Apples=Зачем Сравнивать Яблоки И Яблоки
+Nonkey Jong Heard Secret Code For Ultimate Power=Нонки Джонг Слышал Секретный Код К Ультимативной Силе
+Nonkey Jong Star Farmer=Нонки Джонг Звездный Феремер
+Nonkey Jong Web Browser Running Slow=Нонки Джонга Веб Браузер Работает Медленно
+Nonkey Jong Look For Breath Mints=Нонки Джонг Ищет Мятные Конфеты
+Nonkey Jong Invent New Candle Fragrance=Нонки Джонг Изобрёл Новый Аромат Для Свеч
+Hear New Song By Nonkey Jong?=Слышала Новую Песню Нонки Джонга?
+Nonkey Jong Receive Review of Song=Нонки Джонг Получил Отзыв Песни
+Nonkey Jong Invent New Candle Fragrance=Нонки Джонг Изобрёл Новый Аромат Для Свеч
+Nonkey Jong Burned Tongue=Нонки Джонг Обжог Язык
+Nonkey Jong Heard Secret Code For Ultimate Power=Нонки Джонг Слышал Секретный Код К Ультимативной Силе
+Nonkey Jong Write List So Nonkey Jong Organized=Нонки Джонг Написал Список Так Что Нонки Джонг Организованный
+Nonkey Jong Served Dark Lord Once=Нонки Джонг Однажды Служил Тёмному Властелину
+All Nonkey Jong Teeth, Wisdom Teeth=Все Зубы Нонки Джонга, Зубы Мудрости
+<style\=ENASales>[Program Halted At Line 320571]</style>=<style\=ENASales>[Непредвиденная Ошибка На Строке 320571]</style>
+Collecting Exception Data...=Собирается Информация Об Ошибке...
+End Program and Send Report?=Завершить Программу и Отправить Отчёт?
+Yes=Да
+No=Нет
+What Was Nonkey Jong Saying..?=Что Нонки Джонг Говорил..?
+Oh Yes--=Ах Да--
+Nonkey Jong Heard Secret Code For Ultimate Power=Нонки Джонг Слышал Секретный Код К Ультимативной Силе
+Nonkey Jong Collect Wisdom Teeth=Нонки Джонг Собирает Зубы Мудрости
+Nonkey Jong Visit Famous Conservatory Once=Нонки Джонг Однажды Посетил Знаменитую Консерваторию
+Nonkey Jong Actually Nickname=Нонки Джонг На Самом Деле Прозвище
+Nonkey Jong Visit Opera Once; Heard There Would Be Crudités For Intermission=Нонки Джонг Однажды Посетил Оперу; Слышал Там Дают Крюдите́ На Антракте
+Nonkey Jong Wish Corn Would Return Nonkey Jong's Love=Нонки Джонг Хотел Бы Чтобы Кукуруза Отвечала Нонки Джонгу Взаимностью
+Nonkey Jong Look For Job Once=Нонки Джонг Однажды Искал Работу
+Nonkey Jong Have Strong Brain=Нонки Джонг Имеет Сильный Мозг
+Nonkey Jong Visit Art Gallery Once=Нонки Джонг Однажды Посетил Выставку
+Can Nonkey Jong Borrow 10 Chocolates? Pay Back Soon=Может Нонки Джонг Одолжить 10 Шоколадок? Скоро Вернёт
+Nonkey Jong Have Strong Jaw=Нонки Джонг Имеет Сильную Челюсть
+Nonkey Jong Broke Up With Girlfriend=Нонки Джонг Расстался С Девушкой
+Nonkey Jong Look For Job=Нонки Джонг Ищет Работу
+Nonkey Jong Conduct Orchestra Once=Нонки Джонг Однажды Дерижировал Оркестром
+Nonkey Jong Went To Comedy Club=Нонки Джонг Ходил На Стендап
+Down Dark Hallways, Nonkey Jong Prowls=По Тёмным Коридорам, Нонки Джонг Крадётся
+Nonkey Jong Try Fast Food Once=Нонки Джонг Однажды Пробовал Фастфуд
+Nonkey Jong Hear About Library Of Babel=Нонки Джонг Слышал О Вавилонской Библиотеке
+Nonkey Jong Like Orange Juice=Нонки Джонг Любит Апельсиновый Сок
+Nonkey Jong Wonder, Why Office Lady Cut Half Donut, Leave Half In Box=Нонки Джонг Интересуется, Почему Офисная Леди Отрезала Половину Пончика, Оставила Половину В Коробке
+Nonkey Jong Went To Gala Opening Of Hospital Wing=Нонки Джонг Ходил На Торжественное Открытие Больничного Крыла
+Hear People Say Lot About "Food For Thought" But Nonkey Jong Wonder=Слышал Люди Много Говорят О "Пища Для Размышлений" Но Нонки Джонг Интересуется
+What About Clean Water, Shelter For Thought? Love For Thought? Self-Actualization For Thought?=Что Насчёт Чистой Воды, Укрытия Для Размышлений? Любви Для Размышлений? Самореализации Для Размышлений?
+Nonkey Jong Save Up Wisdom For Later=Нонки Джонг Накопил Мудрости Напотом
+Nonkey Jong Fired From Job=Нонки Джонг Уволен С Работы
+Nonkey Jong MC Night of Inauguration=Нонки Джонг MC Ночь Инаугурации
+You Talk To Nonkey Jong Lots=Ты Много Говоришь С Нонки Джонгу
+Nonkey Jong Star Animator=Нонки Джонг Звездный Аниматор
+Nonkey Jong Work On Comedy Routine=Нонки Джонг Работает Над Комедийным Номером
+Nonkey Jong Arms Tired.=Нонки Джонга Руки Устали.
+Nonkey Jong Think Force Between Two Electrostatic Charges Is Equal To Electrostatic Force Constant Times Product Of Two Charges Divided By Distance Squared Between Two Charges=Нонки Джонг Думает Сила Между Двумя Электростатическими Зарядами Равна Константа Элекстростатической Силы Умножить На Произведение Двух Зарядов Делённая На Квадрат Расстояния Между Двумя Зарядами
+Nonkey Jong Went To Symposium, Royal Astronomical Society=Нонки Джонг Ходил На Симпозиум, Королевская Астрономическая Ассоциация
+Nonkey Jong Happy For Any Company=Нонки Джонг Счастлив Любой Компании
+Even ENA=Даже Если Это ENA
+...=...
+But Nonkey Jong Can't Find=Но Нонки Джонг Не Смог Найти
+Nonkey Jong Is Very Hungry=Нонки Джонг Очень Голоден
+ENA Can't Have; They All For Nonkey Jong=ENA Не Получит; Они Все Для Нонки Джонг
+Sometimes Walls Are Secrets=Иногда Стены Это Секреты
+Maybe Nonkey Jong Find More Bones There=Может Нонки Джонг Найдёт Там Больше Костей
+Blue Is Nonkey Jong Favourite Colour=Синий Любимый Цвет Нонки Джонга
+Cool Ads=Крутые Рекламы
+Win Pole Vault=Выиграл Прыжки С Шестом
+Maybe If Nonkey Jong Was Human, Nonkey Jong Could Be Stairs=Может Если Нонки Джонг Был Человеком, Нонки Джонг Мог Бы Лестницы
+Nonkey Jong Would Never Touch=Нонки Джонг Никогда Не Притронется
+Crunchy=Хрустит
+Win Standing-In-One-Place Competition=Выиграл Соревнование По Стоянию-На-Одом-Месте
+Maybe Artist Want To Paint Nonkey Jong=Может Художник Хочет Нарисовать Нонки Джонга
+Nearly Enough Bones=Едва Ли Хватает Костей
+Nonkey Jong Pour It On Things To Kill Them=Нонки Джонг Льёт Это На Штуки Чтобы Их Убить
+Win Slightly-Rotating-To-Face-You Competition=Выиграл Соревнование По Слегка-Повороту-К-Тебе-Лицом
+Felt Watched=Ощущал Чужой Взгляд
+Corn, Nonkey Jong's Ideal Woman=Кукуруза, Нонки Джонга Идеальная Женщина
+Maybe Like Same Things=Может Любит Те Же Вещи
+Maybe Café Can Do Latte Art Of?=Может В Кафе Можно Сделать Рисунок На Кофе?
+Run To Convenience Store And Back Like Lightning=Бегал До Продуктового И Назад Как Молния
+Nonkey Jong Wear Cool Shoes, Rock Star Soon=Нонки Джонг Носит Крутые Ботинки, Скоро Рок Звезда
+Complicated Topic=Сложная Тема
+Felt Watched=Ощущал Чужой Взгляд
+Pollinate Turron By Hand=Опылял Туррон Рукой
+Nonkey Jong Ape=Нонки Джонг Примат
+Thinks About The Most Important Things In Life=Думает О Самых Важных Жизненных Вещах
+Get Square Hat=Получил Квадратную Шапку
+Maybe Fingers Some Day=Может Когда-то Пальцы
+Felt Seen=Чувствовал Себя Увиденным
+Had Some In Drawer, Did Not Eat=Есть Немного В Комоде, Не Ел
+Sorry, Nonkey Jong Lips Stuck Together=Извини, Нонки Джонга Губы Слиплись Вместе
+Apple Is Apple=Яблоко Это Яблоко
+Up Up Down Down Left Right Left Right Alt F4=Вверх Вверх Вниз Вниз Влево Вправо Влево Вправо Alt F4
+Pollinate Dogs By Hand=Опылял Собак Рукой
+Help=Помоги
+Nonkey Jong Like To Admire Them Sometimes=Нонки Джонг Любит Иногда Этим Любоваться
+"Despair"="Отчаяние"
+Nonkey Jong Is So Peaceful=Нонки Джонг Так Умиротворён
+Nonkey Jong Is So Peaceful=Нонки Джонг Так Умиротворён
+Can't Interrupt Nonkey Jong=Нельзя Прервать Нонки Джонга
+Can't Interrupt Monkey Song=Нельзя Прервать Обезьянью Песню
+Wind Blows=Ветер Дует
+Nonkey Jong Stays=Нонки Джонг Остаётся
+So Peaceful=Так Умиротворён
+Nonkey Jong Is Enraged=Нонки Джонг В Ярости
+Breath Mints=Мятные Конфетки
+What If Power... <i>Change</i> Nonkey Jong?=Что Если Сила... <i>Изменит</i> Нонки Джонга?
+List Around Here Somewhere=Список Где-то Тут Недалеко
+Health Insurance, Very High Deductable=Медицинская Страховка, Очень Высокое Вычитание
+Very Good At Parking=Очень Хорош В Парковке
+Sorry=Извини
+Nonkey Jong Not Sure What Came Over Nonkey Jong For Moment, There=Нонки Джонг Не Уверен Что Овладело Нонки Джонгом На Секунду, Сейчас
+Nonkey Jong Think It 500... Maybe 1000 Watts=Нонки Джонг Думает Это 500... Может 1000 Ватт
+Enough To Be Great Sage, Some Day=Достаточно Чтобы Быть Великим Мудрецом, Когда-то
+Snack Bar Very Expensive=Батончик Очень Дорогой
+Short For Nonkalicious Jongitude=Краткое Для Нонкалорийная Джонгота
+Only Carrots In Ranch Dressing=Только Морковь Под Фермерским Соусом
+Nonkey Jong Wish Corn Would Return Nonkey Jong's Calls=Нонки Джонг Хотел Бы Чтобы Кукуруза Отвечала На Нонки Джонга Звонки
+Corn Take Out Restraining Order On Nonkey Jong=Кукуруза Вынесла Судебный Запрет На Нонки Джонг
+How To Decide Between Blue Or White Collar=Как Выбрать Между Синим И Белым Ошейником
+Bench Three, Maybe Four Pounds=Жмёт Три, Может Четыре Фунта
+Nonkey Jong Biggest Work Of Art=Нонки Джонг Лучшее Произведение Искусства
+Thanks=Спасибо
+Fine=Ладно
+Three, Maybe Four Chins=Три, Может Четыре Подбродка
+Find It Under Bush=Нашёл Под Кустом
+Wave Arms=Помахали Руками
+Ran Out Crab Rangoons So Nonkey Jong Leave=Закончились Крабовые Рангуны И Нонки Джонг Ушёл
+Feel Like Vampire; Maybe Bite Leg=Чувствует Себя Вампиром; Может Кусать Ногу
+NcNonalds=НакНональдс
+Maybe Find What Nonkey Jong Say Next=Может Найдешь Что Нонки Джонг Скажет Дальше
+Nonkey Jong Really Really Really Like Orange Juice=Нонки Джонг Очень Очень Очень Любит Апельсиновый Сок
+Nonkey Jong Know Office Lady Come Back For Other Half Later=Нонки Джонг Знает Офисная Леди Вернётся За Другой Половиной Позже
+Fight Mayor For Miniature Salmon Mousses=Бился С Мэром За Миниатюрный Лососевый Мусс
+Is Thought OK???=Мысль OK???
+Bury Wisdom Teeth Under Tombstone=Закопал Зубы Мудрости Под Надгробием
+Nonkey Jong Tell Self: Still Good Person=Нонки Джонг Говорит Себе: Всё Ещё Хороший Человек
+City Comptroller Eat Entire Spanakopita Before Nonkey Jong Have Any=Городской Инспектор Съел Всю Спанакопиту И Нонки Джонгу Ничего Не Досталось
+Nonkey Jong Get Achievement=Нонки Джонг Получил Достижение
+Nonkey Jong Not Really Conduct Orchestra.=Нонки Джонг На Самом Деле Не Дережирует Аркестром.
+Sorry. Nonkey Jong Pretend Sometimes And Forget.=Извини. Нонки Джонг Иногда Притворяется И Забывает.
+Win Internet Raytracing Competition 1996=Выиграл Интернет Соревнование По Трассировке Лучей 1996
+What With Things Anyway??=Что Вообще С Вещами??
+What With Oranges=Что С Апельсиновыми
+Is Fruit? Is Color?=Это Фрукты? Это Цвет?
+Get With It=Смирись
+Spilled Bouillabaisse=Разлил Буйабес
+Nonkey Jong Happy For Any Company=Нонки Джонг Счастлив Любой Компании
+Even ENA=Даже Если Это ENA
+Hast thou seen that?=Видела ли ты это?
+Entities fighting each other for thy attention. <style\=Hint>Creating a path to the correct hut</style> for the sinful souls whom arrive to this unfortunate place.=Сущности борются за твоё внимание. <style\=Hint>Создавая путь к правильной хижине</style> для грешных душ, кои прибывают в сие несчастное место.
+I know not which one to trust. <style\=Hint>Which tells the truth</style>? So tired I am of lies...=Не ведомо мне, кому верить. <style\=Hint>Который говорит истину</style>? Я так устал ото лжи...
+The lighter orange seems desperate to have thy attention, though <style\=Hint>it doesn't bother me that much</style>...=Светло-оранжевый, похоже, отчаянно желает получить твоё внимание, однако <style\=Hint>меня сие не сильно беспокоит</style>...
+Despite everything, green always seemed to me a rather poisonous colour.=Несмотря ни на что, зелёный всегда казался мне ядовитым цветом.
+The directions from those dark greens. Something feels sour in them.=Направления от этих тёмно-зеленых. В них чувствуется какая-то горечь.
+For my part, a cup of sack with orange is better than a cup without.=Что до меня, считаю чаша с апельсиновым пакетиком лучше, чем чаша без него.
+And so the day wends away. Thou'rt tired, I'd warrant.=И так день отходит на второй план. Ты устала, я б изрёк.
+Strange it is, how problems always end later than sooner. But thou—<i>thou</i> hast seen an end of it.=Сие странно, как проблемы кончаются рано или поздно. Но ты—<i>ты</i> видела её конец.
+It was nice for me—no, it was a good time for me. Thou provided good company.=Неплохо было мне—нет, я хорошо провёл время. Ты предоставила хорошую компанию.
+Go ahead, ƎNA. Thou will get out of here. Thy intention never falters.=Иди же, ƎNA. Ты сможешь выбраться отсюда. Твои намерения никогда не запинаются.
+...=...
+...=...
+It seems to be locked from the other side.=Похоже, заперто с другой стороны.
+A nice surprise! Two travellers meet again.=Приятный сюрприз! Два путешественника снова встретились.
+Although, mayhap, in happier circumstance.=Хотя, возможно, в обстоятельствах счастливие.
+I can no longer sense the stench of any lie. Vain pretense has met his match, and noble Truth holds sway.=Я более не чую смрада лжи. Тщеславное притворство встретило своего соперника, и благородная Истина теперь царит.
+This ship and her sweet memory bring peace.=Этот корабль и его сладкие воспоминания приносят покой.
+What knows shall come but I will remain, to greet fair and foul change with song alike.=Кто знает, что грядёт, но я останусь, дабы привествовать песней как честные, так и нечестные перемены.
+Unforgiven I must still remain, but always learning from my old mistakes.=Непрощён я должен остаться, но всегда учиться на своих старых ошибках.
+The brass plaque at the bottom says "Lord Frank."=Бронзовая табличка внизу гласит "Лорд Фрэнк."
+There is a signature in the top-left corner of the painting.=В левом верхнем углу картины есть подпись.
+<i>Piero</i>=<i>Пьеро</i>
+My condolences on reaching this place.=Мои соболезнования, что ты добралась до этого места.
+Whoever you are talking with now is what remains of the <style\=Hint>former Genie of these lands</style>. Forgiveness is only a gift you can never have.=Тот, с кем ты сейчас говоришь - это остатки <style\=Hint>бывшего Джинна этих земель</style>. Прощение это единственный дар, который ты никогда не получишь.
+<style\=ENASales>Dear Genie, or... to whoever it may concern—</style>=<style\=ENASales>Дорогой Джинн, или... тот, кого это может касаться—</style>
+<style\=ENASales>My job is to do everything possible to find the Boss, for he is our target today.</style>=<style\=ENASales>Моя работа это делать всё возможное для нахождения Босса, потому что сегодня он - наша цель.</style>
+<style\=ENASales>The smoke is in the way of our business and must be eradicated at once.</style>=<style\=ENASales>Дым стоит на пути нашего дела и должен быть тотчас же уничтожен.</style>
+That Boss you are looking for... are you familiar with his background? His family? His face?... Even if you can't answer these questions, you seem to recognize very well who this entity is.=Тот Босс, которого ты ищешь... ты знакома с его историей? С его семьёй? С его лицом?... Даже если ты не можешь ответить на эти вопросы, ты похоже очень хорошо осознаешь, кто является этой сущностью.
+Despite this confidence, you and me holding a conversation in this place says a lot about your inability to complete such a task. Could there have been hesitation in your actions?=Несмотря на эту уверенность, то, что ты и я разговариваем в этом месте, многое говорит о твоей неспособновти завершить такую задачу. Была ли неуверенность в твоих действиях?
+Unfortunately, there's not much else I can do for you right now. I choose to remind you that this place we are in is too far away from your real, physical form. I can only keep you from returning to it.=К несчастью, сейчас я мало что ещё могу для тебя сделать. Я выберу напомнить тебе, что то место, в котором мы сейчас находимся, находится слишком далеко от твоей реальной, физической формы. Я могу только удерживать тебя от возврата к ней.
+However... I may make an exception for today.=Однако... на сегодня я могу сделать исключение.
+Touch my memories. Let me show you a reality, one where you achieved your <style\=Hint>deepest desires</style>.=Дотронься до моих воспоминаний. Позволь показать тебе реальность, ту, в которой ты достигла своих <style\=Hint>глубочайших желаний</style>.
+<color\=black>{fade d\=10}Remember, ƎNA: "All it takes is a place and the right food."{/}</color>=<color\=black>{fade d\=10}Запомни, ƎNA: "Всё что нужно, это место и правильная еда."{/}</color>
+It's shy.=Оно стеснительное.
+The faraway sense of sand and dirt brush the knuckles.=Отдалённое чувство песка и земли трущихся о костяшки.
+A door from a different time.=Дверь из других времён.
+A sink to wash the sin off the face?=Раковина, чтобы отмыть грех с лица?
+A mirror to reflect on the past and future?=Зеркало, чтобы заглянуть в прошлое и будущее?
+A fountain of smoke to collect lies?=Фонтан дыма, чтобы собрать ложь?
+A place to deposit aspirations?=Место для сброса амбиций?
+...=...
+...=...
+...=...
+Congratulations on reaching the Bathroom.=Мои поздравление по достижению Туалета.
+It is I, Theodora, the Genie of these lands.=Это я, Теодора, Джинн этих земель.
+It is I, Theodora, the Genie of these lands.=Это я, Теодора, Джинн этих земель.
+All of your sins are now forgotten.=Все твои грехи ныне забыты.
+Ascend to the toilet of G0D and wipe the guilt off of your face,=Вознесись к к туалету Б0ГА и смой вину со своего лица,
+beloved angel.=любимый ангел.
+Wait—=Стой—
+Wait—ƎNA?!=Стой—ƎNA?!
+Wait—ƎNA?!=Стой—ƎNA?!
+Wait, wait, you are UNforgiven!=Стой, стой, ты НЕпрощена!
+Wait, wait, you are UNforgiven!=Стой, стой, ты НЕпрощена!
+My job here is terminated!=Моя работа здесь остановлена!
+My job here is terminated!=Моя работа здесь остановлена!
+<style\=ENAMean>Don't you dare hang up that phone!!</style>=<style\=ENAMean>А ну не смей вешать трубку!!</style>
+Ugghhh…=Ооуухх…
+Hm, I'll admit that I admire your naive courage…=Хм, признаю, что я восхищаюсь твоей наивной отвагой…
+Hm, I'll admit that I admire your naive courage…=Хм, признаю, что я восхищаюсь твоей наивной отвагой…
+I'll grant you one aspiration, okay? Nothing more.=Я дам тебе одно желание, ладно? И ничего более.
+What are you striving for? What kind of life do you want to live?=К чему же ты стремишься? Что за жизнь ты хочешь прожить?
+Tell me your aspirations.=Скажи же мне свои желания.
+...=...
+Tell me your aspirations.=Скажи же мне свои желания.
+Aspire to receive a blissful life.=Пожелать блаженную жизнь.
+Aspire to get rid of the smoke.=Пожелать избавления от дыма.
+Aspire for eternal happiness.=Пожелать вечного счастья.
+Aspire for Frank's forgiveness.=Пожелать прощения Фрэнка.
+Aspire for the punishment of the moon.=Пожелать наказания для луны.
+Aspire for the true perception of reality.=Пожелать истинного восприятия реальности.
+If this were to be revealed, the game would end.=Если это показать, то игра закончится.
+You can't aspire for more than what you are capable of.=Ты не можешь пожелать больше своих возможностей.
+No punishment. Just like how nobody needs to be punished for being born.=Без наказаний. Никто не заслуживает наказания за то, что родился.
+Except you, of course.=Кроме тебя, конечно.
+You can't change the natural order of things.=Ты не можешь изменить естественный порядок вещей.
+Nope.=Не-а.
+<style\=ENASales>Dear Genie: your Boss is our target today, but the smoke is in the way of our business.</style>=<style\=ENASales>Дорогой Джинн: твой Босс это наша сегодняшняя цель, но этот дым стоит на пути нашего дела.</style>
+<style\=ENASales>Would you so kindly get rid of it at once?</style>=<style\=ENASales>Не будете ли вы так любезны тотчас же от него избавиться?</style>
+<style\=ENASales>Would you so kindly get rid of it at once?</style>=<style\=ENASales>Не будете ли вы так любезны тотчас же от него избавиться?</style>
+What exactly is this about a "target"?=Что именно ты имеешь ввиду под "целью"?
+Do you even know the ingredients of that word salad?=Ты хотя бы знаешь ингридиенты этого словесного салата?
+Your mind seems to be in conflict with the letters it spits out.=Похоже, твой разум в споре со словами, что он извергает.
+Worries and fears will only betray your true goals, ƎNA.=Беспокойства и страхи только лишь предадут твои истинные цели, ƎNA.
+Inside this well, you'll find the root of your pain: the very source of this smoke. Go ahead.=Внутри этого колодца, ты найдёшь корень своей боли: источник этого дыма. Иди же.
+Inside this well, you'll find the root of your pain: the very source of this smoke. Go ahead.=Внутри этого колодца, ты найдёшь корень своей боли: источник этого дыма. Иди же.
+<color\=black>{fade d\=10}Remember, ƎNA: "All it takes is a place and the right food."{/}</color>=<color\=black>{fade d\=10}Запомни, ƎNA: "Всё что нужно, это место и правильная еда."{/}</color>
+Can the business bear the liability of obliterating this Smoke Machine?=Может ли компания нести ответственность за уничтожение этой Дымовой Машины?
+Yes=Да
+It no longer moves.=Она больше не двигается.
+aSdsJmE9IGlrc2E1cyAjIHRhIGUgJ14gZmluZCB5b3UKOTJLMSJhciB5b3VyIGV5ZXMgeW91IGtub3cgaSdsbCBuZXZlciBtaW5kIHlvdQ=aSdsJmE9IGlrc2E1cyAjIHRhIGUgJ14gZmluZCB5b3UKOTJLMSJhciB5b3VyIGV5ZXMgeW91IGtub3cgaSdsbCBuZXZlciBtaW5kIHlvdQ
+aGVoZSBhIHdvcmxkIGEgZmllbGQgYW5kIGkgdG8gbG92ZSB5b3UKNTRAPWF0JyJjdnjGkmEgdGFzwqJhaGUgc2tpZXMgYWJvdmUgeW91=aGVoZSBhIHdvcmxkIGEgZmllbGQgYW5kIGkgdG8gbG92ZSB5b3UKNTRAPWF0JyJjdnjGkmEgdGFzwqJhaGUgc2tpZXMgYWJvdmUgeW91
+...=...
+...=...
+aW8zMzFBel1zIHQjIGZpeCB5b3UKNcKjXD00JFwyIy80IFRhJ8KuZSB3JTAgaGVhbGlccSBicmluZ3MgeW91=aW8zMzFBel1zIHQjIGZpeCB5b3UKNcKjXD00JFwyIy80IFRhJ8KuZSB3JTAgaGVhbGlccSBicmluZ3MgeW91
+SMuNNyAzNF7DsMOfwq/Dn8KvNmU5J3MgXmx1ZQ=SMuNNyAzNF7DsMOfwq/Dn8KvNmU5J3MgXmx1ZQ
+Zmc3IERzJU9mcS9ENeKAuSU4cwppc24ndCBzdWNoIGFuIGF3NHU2IHwz4oSW=Zmc3IERzJU9mcS9ENeKAuSU4cwppc24ndCBzdWNoIGFuIGF3NHU2IHwz4oSW
+An unintelligible dialect.=Неразборчивый диалект.
+Seems happy.=Выглядит счастливым.
+Remember ƎNA...=Запомни ƎNA...
+I came here to buy some vacations.=Я пришёл сюда, чтобы купить немного отпусков.
+Just arrived for the premiere.=Только что прибыла к премьере.
+This is indeed one movie.=Это воистину кино.
+The second act feels too obvious.=Второй акт чувствуется слишком предсказуемым.
+I have seen this one before, but I'm always happy to spend my time on it.=Я это уже видел, но я всегда рад потратить на это время.
+Very informative.=Очень информативно.
+I don't like the cast. I prefer                       cash.=Мне не нравится каст. Я предпочитаю                       кэш.
+This looks controversial.=Выглядит противоречиво.
+Sorry, I do not give change.=Прости, я не даю мелочи.
+What are you looking at? Do I owe you something?=На что смотришь? Я тебе что-то должен?
+Not now, thanks.=Спасибо, не сейчас.
+Not enough chocolates to buy this.=Не достаточно шоколадок, чтобы купить.
+Is that hat up for auction? Maybe next season?=Эта шляпа выставлена на аукцион? Может, на другой сезон?
+Good job, ENA.=Отличная работа, ENA.
+Grey is a good color, isn't it?=Серый - хороший цвет, не так ли?
+Nice weather.=Неплохая погодка.
+Why are those things around you?=Почему эти штуки вокруг тебя?
+This new island looked fancier in the catalogue. Not impressed.=Этот новый остров выглядел красивее в каталоге. Не впечатлён.
+I like the smile on your face. How much for it?=Мне нравится улыбка на твоём лице. Сколько за неё берёшь?
+Things are smelling much more valuable now!=Теперь вещи пашнут намного более богато!
+Congratulations!=Поздравляю!
+Open this Door?=Открыть эту Дверь?
+Open=Открыть
+Leave=Уйти
+This Door is now closed.=Эта Дверь сейчас закрыта.
+It's not budging.=Не поддаётся.
+Don't think I didn't see that!=Не думай, что я этого не видел!
+<style\=Dratula>I AM DRATULA.</style>=<style\=Dratula>Я ДРАТУЛА.</style>
+Idiot!!!<br><style\=Dratula>I AM DRATULA.</style>=Идиот!!!<br><style\=Dratula>Я ДРАТУЛА.</style>
+<style\=Dratula>I-</style>=<style\=Dratula>Я-</style>
+Hey...=Хэй...
+Quit being so unprofessional, people will get the wrong idea!=Хватит быть такой непрофессиональной, люди неправильно поймут!
+A dealer in real estate.=Торговец недвижимостью.
+A speculator in the real estate market.=Перекупщик рынка недвижимости.
+A speculative investor in real estate.=Перекупный инвестор в недвижимость.
+A prospective buyer and seller in real estate properties.=Потенциальные покупатель и продавец недвижимости.
+Someone in the market for real estate.=Кто-то на рынке недвижимости.
+An investor hoping to purchase real estate.=Инвестор, надеющийся купить недвижимость.
+A Realtor.=Риэлтор.
+A real estate agent.=Агент по недвижимости.
+Someone attempting to acquire real estate property.=Кто-то, кто пытается приобрести недвижимость.
+A speculative developer of land and properties.=Перекупный застройщик земли и недвижимости.
+A hopeful arbitrageur.=Полный надежд арбитражер.
+An enthusiastic claimsman.=Энергичный истец.
+The representative of a C-REIT looking for leverageable assets.=Представитель C-REIT ищет активы, которые можно использовать с выгодой для себя.
+A trade-up buyer on the scent of a land rush.=Скупщик недвижимости на волне ажиотажа вокруг земли.
+A prospective mover on the front lines of a restructuring in the real estate sector.=Перспективный предприниматель, находящийся на передовой реструктуризации в секторе недвижимости.
+An aggressive speculator in high-yield land-based securities.=Агрессивный перекупщик высокодоходных земельных бумаг.
+An expectant home-improvement profiteer.=Выжидательный спекулянт по улучшению жилья.
+A proto-speculator, seeking growth at all costs in the wake of a marketwide liquidity crisis.=Прото-спекулянт, стремящийся к росту любой ценой на волне всерыночного кризиса ликвидности.
+Someone trying to acquire high LTV financial instruments in the emerging local sector of real estate.=Кто-то, пытающийся получить высокодоходные финансовые инструменты в появляющемся местном секторе недвижимости.
+A wannabe house flipper.=Претендент на управление недвижимостью.
+An aspiring property enrichment specialist dabbling in quick-turnaround investments.=Устремлённый специалист по улучшению жилища, балующийся быстровозвратными вложениями.
+An entry-level property czar.=Царь недвижимости начального уровня.
+A would-be land banker rapidly trading in securitized property assets.=Потенциальный земельный банкир, стремительно торгующий секьюритизированными имущественными активами.
+......................=......................
+I was born with a purpose from the bells of creation.=Я был рождён с предназначением из колоколов сотворения.
+My soul was poured into the river of time, and my flesh under the pressure of life.=Моя душа была влита в реку времени, и моя плоть под давлением жизни.
+A disturbing relief is what is in front of me.=То, что предо мной - это тревожущее облегчение.
+A body could fit in here.=Сюда может поместиться тело.
+Fertile soil.=Плодородная земля.
+Not that kind.=Не такое.
+...=...
+...=...
+ALRIGHT! You got the right number,=ЛАДНО! У тебя правильный номер,
+buuuuut: we don't do returns!=нооооо: мы не принимаем возвраты!
+Hey, DON'T BE SAD!=Хэй, НЕ ПЕЧАЛЬСЯ!
+I know what you may be thinking:=Я знаю, что ты думаешь:
+you spent a lot of that cash on something that's practically everywhere,=ты потратила много денег на то, что практически повсюду,
+but WHO CARES!=но КОМУ КАКОЕ ДЕЛО!
+Look on the bright side!=Смотри с лучшей стороны!
+Uh…=Ам…
+hmmm…=хммм…
+Soooieeee!=Суууйииии!
+...=...
+Don't call again!=Больше не звони!
+Soooooie!=Суууууйи!
+...=...
+Hey there Theta!=Приветик, Тэта!
+Sorry I gotta curve your call,=Простите, надо закруглить Ваш звонок,
+sloping into a global maxima of interviews 'til I get to 0.=шмыгнул в глобальный максимум интервалов, пока не доберусь до 0.
+If you got the data to hire this dolphin,=Если у вас есть данные для наёма этого дельфина,
+just leave me your polynomial and I'll integrate right on over.=просто оставьте мне ваш полином и я сразу же его интегрирую.
+Byeee!=Покаааа!
+...=...
+...=...
+...=...
+Moments ago, a very noisy someone sent me her "resume".=Только что очень шумный кто-то, отправил мне своё "резюме".
+But... all I see here are medical notes from her psychiatrist.....=Но... всё, что я здесь вижу - медицинские отчёты от её психиатра.....
+...I'm highly concerned and astonished at the same time.=...Я крайне обеспокоена и удивлена одновременно.
+...=...
+Hello? Who is this?=Алло? Кто это?
+What do you want from me-?...=Чего ты от меня хочешь-?...
+Wait, is that you ENA?=Погоди, это ты, ENA?
+Ehhh… how did you get this number?!=Ээээ… откуда у тебя этот номер?!
+I don't like the idea of you calling me whenever you feel like it…=Мне не нравится идея того, что ты можешь мне звонить, когда тебе захочется…
+Let's keep it professional, okay? First comes work, then we can chat.=Давай останемся профессионалами, ладно? Сначала работа, после - разговор.
+Maybe we could play some chess and drink a little when all of this is done.=Может мы могли бы поиграть в шахматы и немного выпить, когда всё будет сделано.
+Although… whenever you drink, you become more of a disaster.=Хотя… когда ты пьёшь, ты становишсья ещё большим бедствием.
+Do you even understand what fun is?=Ты вообще понимаешь что такое веселье?
+...=...
+Hey!=Хэй!
+Stop calling me and focus on work!=Хватит звонить мне и сосредоточься на работе!
+Howdy!=Приветик!
+Hey...=Хэй...
+...=...
+...what are you up to?=...что ты задумала?
+Come on! Get those eyes back to work!=Ну же! Верни эти глаза обратно к работе!
+...=...
+...=...
+Hey!=Хэй!
+Is this some kind of job ritual?=Это какой-то рабочий ритуал?
+You're creeping me out.=От тебя у меня мурашки.
+Are you dead or something?=Ты что, умерла?
+ENA!=ENA!
+I stalked your conversation!=Я подслушал ваш разговор!
+<i>(heh heh heh heh heh)</i>=<i>(хех хех хех хех хех)</i>
+I heard something about those damn <style\=Hint>Genies and Doors</style>.=Я слышал что-то об этих чёртовых <style\=Hint>Джиннах и Дверях</style>.
+If you're going to go looking for them...=Если собираешься пойти их искать...
+then I won't be able to go with you...=тогда я не смогу пойти с тобой...
+...=...
+.........=.........
+My feet hurt from all this smoke.=Мои ноги болят от всего этого дыма.
+So, it's up to you to <style\=Hint>find those Genies</style>!=Так что <style\=Hint>найти этих Джиннов</style> - твоя работа!
+We'll be in touch over the phone.=Я буду доступен по телефону.
+...=...
+...=...
+<style\=ENAMean>Heal heal, frog a-</style>=<style\=ENAMean>Лечись-лечись, жабья жо-</style>
+<style\=ENASales>Ping me in some moments.</style>=<style\=ENASales>Прозванивайте меня в некоторые моменты.</style>
+Call me crazy,=Можешь звать меня паранойиком,
+but I haven't heard any information about the supposed "<style\=Hint>Genie</style>" of this Door.=но я не слышал никакой информации о предполагаемом "<style\=Hint>Джинне</style>" этой Двери.
+Pretty suspicious if you ask me!=Очень подозрительно, как по-мне!
+...=...
+Damn, this place reeks of naphthalene!=Чёрт, здесь всё провоняло нафталином!
+<style\=ENASales>Let's think on it,</style>=<style\=ENASales>Давайте поразмышляем,</style>
+<style\=ENASales>gather info, and ask questions.</style>=<style\=ENASales>соберём инфу, поспрашиваем вопросы.</style>
+<style\=ENASales>I will provide us with the factual truth about this</style>=<style\=ENASales>Я предоставлю нам фактическую истину об этом</style>
+<style\=ENASales>Geniɥɢəɜ-</style>=<style\=ENASales>Джинɥɢəɜ-</style>
+<style\=ENASales>BATHROOM</style>=<style\=ENASales>ТУАЛЕТЕ</style>
+...=...
+—ehh?!=—хээ?!
+"Bathroom"?!...="Туалете"?!...
+Why are you talking about a—?!=Почему ты говоришь о—?!
+...=...
+...=...
+Whatever.=Не важно.
+You may go, I suppose.=Можешь сходить, наверное.
+But don't stay there just to avoid work hours!=Но не сиди там, просто чтобы тратить рабочее время!
+I know that trick.=Я знаю этот фокус.
+ENA,=ENA,
+what's taking so long?!=почему так долго?!
+Where's the Genie?!=Где Джинн?!
+Don't tell me...=Только не говори мне...
+YOU'RE STILL IN THE BATHROOM?!=ТЫ ВСЁ ЕЩЁ В ТУАЛЕТЕ?!
+Wh0RP V0 BL3GG0PP=Кт0РП В0 БЛ3ГГ0ПП
+Hey!=Хэй!
+Quit hovering over the toilet!=Хватить нависать над унитазом!
+It's embarrassing!=Стыдоба!
+P0m'V J3 G1GHT1CK T3W=П0м'В Ж3 Г1ГТХ1КК Т3В
+Who talks like that?!=Кто вообще так говорит?!
+And—hold the phone…=И—подержи трубку…
+are you repenting on the TOILET?=ты раскаиваешься на УНИТАЗЕ?
+ARGH!=АРХХ!
+YOU...=ТЫ...
+I should have seen this coming!=Я должен был это предвидеть!
+Ohhhhhhhh!=Охххххххх!
+Is this one of those illegal <style\=Hint>Purge Events</style>?=Это один из тех нелегальных <style\=Hint>Праздников Очищения</style>?
+...=...
+......=......
+.........=.........
+<style\=ENAMean>Event?</style>=<style\=ENAMean>Праздников?</style>
+...=...
+Unbelievable,=Невообразимо,
+you're partying in the middle of work?!=ты тусишь посреди работы?!
+<style\=ENAMean>I...</style>=<style\=ENAMean>Я...</style>
+<style\=ENAMean>I crave freedom and, and the G-</style>=<style\=ENAMean>Я жажду свободы и, и Дж-</style>
+<style\=ENAMean>BATHROOM</style>=<style\=ENAMean>ТУАЛЕТ</style>
+<style\=ENAMean>is my only escape!</style>=<style\=ENAMean>мой единственный выход!</style>
+"Bathroom"?!="Туалет"?!
+Again with that?!!!=Опять про него?!!!
+You may not make it out of this place alive!=Ты можешь и не выбраться оттуда живой!
+And I certainly won't be picking up your slack!=И я определённо не буду тебе помогать!
+Find a way out of there!=Найди способ оттуда выбраться!
+Please tell me you are done with all that bathroom bullcrap.=Пожалуйста, скажи мне, что ты закончила со всей этой туалетной фигнёй.
+<style\=ENASales>The issue with the Bathroom has been resolved.</style>=<style\=ENASales>Проблема с Туалетом была решена.</style>
+<style\=ENASales>Our business with the Boss is our next priority.</style>=<style\=ENASales>Нашё дело с Боссом - следующая цель.</style>
+<style\=ENASales>He will be down the drain in no time.</style>=<style\=ENASales>Он будет слит в мгновение.</style>
+Down the what?<br>That's not funny.=Будет что?<br>Это не смешно.
+I won't fall for that, stop acting like a novice!=Я на это не куплюсь, хватит вести себя как новичок!
+You know your job.=Ты свою работу знаешь.
+Let's focus on finishing it in one go.=Давай сосредоточимся на ней, чтобы сделать всё за один раз.
+...=...
+Don't you dare ever talk to me about bathrooms again!=И не смей больше говорить со мной о туалетах!
+<style\=ENAMean>Agreed. Toilets are death traps.</style>=<style\=ENAMean>Соглашусь. Туалеты - это смертельные ловушки.</style>
+—Ahh, I almost forgot to mention!=—Аах, я почти забыл упомянуть!
+I don't know what you did, but it is really working!=Не знаю, что ты сделала, но оно реально работает!
+A lot of that nasty <style\=Hint>smoke has disappeared</style>.=Много этого противного <style\=Hint>дыма исчезло</style>.
+Good job, ENA,=Хорошая работа, ENA,
+you always make work easier.=ты всегда упрощаешь труды.
+Although, now that I think about it...=Хотя, сейчас я тут подумал...
+we may have ended up in another one of those predicaments, ENA.=мы можем оказаться в ещё одном затруднении, ENA.
+AHHH, damn it, this is a looping predicament.=АХХХ, чёрт, это зацикленное затруднение.
+<style\=ENASales>Ahh! Predicaments, huh?</style>=<style\=ENASales>Ааа! Затруднения, хах?</style>
+<style\=ENASales>I'm good at those.</style>=<style\=ENASales>Я в них хороша.</style>
+You see, I heard the Door you are<br>at is <style\=Hint>about to close right now</style>.=Знаешь, я слышал, что Дверь, в которой<br>ты сейчас, <style\=Hint>собирается сейчас закрыться</style>.
+That means you may get trapped in there, you know?=Это означает, что ты можешь быть там заперта, ты это понимаешь?
+<style\=ENASales>Well, it's time to be that one drop inside that ocean full of opportunities.</style>=<style\=ENASales>Что ж, время стать той самой каплей в океане, полном возможностей.</style>
+<style\=ENASales>Am I right?</style>=<style\=ENASales>Я права?</style>
+AH. Sure, sure,=АХ. Конечно, конечно,
+I forgot you have your sales tricks.=Я забыл, что у тебя свои продавательные фокусы.
+You are really good at those, aren't you?=Ты очень хороша в этом, не так ли?
+Now go. Do whatever you have to do and come back.=Теперь иди. Делай что должна и возвращайся.
